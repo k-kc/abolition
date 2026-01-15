@@ -15,8 +15,7 @@ title: "Schedule & Readings"
 
 ## Part I: Origins and Early History of the Prison
 
-### Week 1: Origins of the Prison
-**[DATE]**
+### Week 1, Jan 20 : Origins of the Prison
 
 **Readings:**
 * Cesare Beccaria, selections from *On Crimes and Punishments* (1764)
