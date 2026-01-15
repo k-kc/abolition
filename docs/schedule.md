@@ -5,7 +5,7 @@ title: "Schedule & Readings"
 
 # Schedule & Readings
 
-[← Back to Home](index.html)
+[← Back to Home](index.md)
 
 ---
 
@@ -19,8 +19,14 @@ title: "Schedule & Readings"
 **[DATE]**
 
 **Readings:**
-* Cesare Beccaria, selections from *On Crimes and Punishments* (1764) [pages TBD]
-* Jeremy Bentham, selections on punishment and prison design [pages TBD]
+* Cesare Beccaria, selections from *On Crimes and Punishments* (1764)
+  * Chapter I: Of the Origin of Punishment
+  * CHapter II: Of the Right to Punish
+  * Chapter VI: Of the Proportion Between Crimes and Punishment
+  * Chapter XII: Of the Intent of Punishments
+  * Chapter XXVIII: Of the Punishment of Death
+  * Chapter XXIX: Of Imprisonment
+* Jeremy Bentham, ["On Death Punishment; Letter to His Fellow Citizens of France"](https://oll.libertyfund.org/titles/bowring-the-works-of-jeremy-bentham-vol-1#lf0872-01_label_2912) (1831)
 
 **Key Questions:**
 * Why punish? Why punish this way?
