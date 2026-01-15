@@ -15,7 +15,7 @@ title: "Schedule & Readings"
 
 ## Part I: Origins and Early History of the Prison
 
-### Week 1, Jan 20 : Origins of the Prison
+### Week 2, Jan 27: Origins of the Prison
 
 **Readings:**
 * Cesare Beccaria, ["selections from *On Crimes and Punishments*"](/docs/beccaria-crimes-and-punishment.pdf) (1764)
@@ -34,7 +34,7 @@ title: "Schedule & Readings"
 
 ---
 
-### Week 2: Prisons in the Early Republic
+### Week 3: Prisons in the Early Republic
 **[DATE]**
 
 **Readings:**
@@ -51,7 +51,7 @@ title: "Schedule & Readings"
 
 ---
 
-### Week 3: Convict Leasing
+### Week 4: Convict Leasing
 **[DATE]**
 
 **Readings:**
@@ -68,7 +68,7 @@ title: "Schedule & Readings"
 
 ---
 
-### Week 4: Punishment in the New Metropolis
+### Week 5: Punishment in the New Metropolis
 **[DATE]**
 
 **Readings:**
@@ -86,7 +86,7 @@ title: "Schedule & Readings"
 
 ## Part II: Resistance and Reform
 
-### Week 5: Anti-Lynching and Prisoner Defense
+### Week 6: Anti-Lynching and Prisoner Defense
 **[DATE]**
 
 **Readings:**
@@ -106,7 +106,7 @@ title: "Schedule & Readings"
 
 ---
 
-### Week 6: Rise of the Liberal Prison
+### Week 7: Rise of the Liberal Prison
 **[DATE]**
 
 **Readings:**
@@ -122,7 +122,7 @@ title: "Schedule & Readings"
 
 ---
 
-### Week 7: Civil Rights/Prisoners' Rights
+### Week 8: Civil Rights/Prisoners' Rights
 **[DATE]**
 
 **Readings:**
@@ -138,7 +138,7 @@ title: "Schedule & Readings"
 
 ---
 
-### Week 8: The Rebellion Years
+### Week 9: The Rebellion Years
 **[DATE]**
 
 **Readings:**
@@ -155,7 +155,7 @@ title: "Schedule & Readings"
 
 ---
 
-### Week 9: Anticarceral Feminism
+### Week 10: Anticarceral Feminism
 **[DATE]**
 
 **Readings:**
@@ -176,7 +176,7 @@ title: "Schedule & Readings"
 
 ## Part III: The Prison-Industrial Complex and Contemporary Abolition
 
-### Week 10: The Prison-Industrial Complex
+### Week 11: The Prison-Industrial Complex
 **[DATE]**
 
 **Readings:**
@@ -191,7 +191,7 @@ title: "Schedule & Readings"
 
 ---
 
-### Week 11: Juvenile Detention
+### Week 12: Juvenile Detention
 **[DATE]**
 
 **Readings:**
@@ -208,7 +208,7 @@ title: "Schedule & Readings"
 
 ---
 
-### Week 12: Carceral Intersections
+### Week 13: Carceral Intersections
 **[DATE]**
 
 **Readings:**
@@ -221,7 +221,7 @@ title: "Schedule & Readings"
 
 ---
 
-### Week 13: Voices from the Inside
+### Week 14: Voices from the Inside
 **[DATE]**
 
 **Readings:**
@@ -236,7 +236,7 @@ title: "Schedule & Readings"
 
 ---
 
-### Week 14: #AbolishICE and Crimmigration
+### Week 15: #AbolishICE and Crimmigration
 **[DATE]**
 
 **Readings:**
@@ -245,20 +245,6 @@ title: "Schedule & Readings"
 **Key Questions:**
 * How does immigration enforcement function as part of the carceral state?
 * What connections exist between prison abolition and immigrant justice movements?
-
----
-
-### Week 15: Course Conclusion
-**[DATE]**
-
-**Readings:**
-* [Concluding readings TBD - possibilities: abolitionist futures, reflections on the semester's themes]
-
-**Key Questions:**
-* What is the long arc of abolitionist thought and practice?
-* Where do we go from here?
-
-**Final Papers Due:** [DATE AND TIME]
 
 ---
 
