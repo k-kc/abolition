@@ -1,11 +1,11 @@
 title: "From Beccaria to #BlackLivesMatter: The Long Abolition Movement"
-description: Course materials and resources for POLSCI B372-001
+description: Course hub for POLSCI B372-001 - The Long Abolition Movement
 theme: jekyll-theme-minimal
 show_downloads: false
 
 # GitHub repository info
 github:
-  repository_url: https://github.com/k-kc/abolition-course
+  repository_url: https://github.com/k-kc/abolition
   owner_name: k-kc
 
 # Build settings
