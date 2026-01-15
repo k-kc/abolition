@@ -18,7 +18,7 @@ Dalton Hall 300
 
 ## Announcements
 
-**Ahead of our first class session, reflect on the following question:** What does "abolition" mean to you? Where have you encountered this term before?
+Check back later for more 
 
 ---
 
