@@ -1,0 +1,29 @@
+title: "From Beccaria to #BlackLivesMatter: The Long Abolition Movement"
+description: Course materials and resources for POLSCI B372-001
+theme: jekyll-theme-minimal
+show_downloads: false
+
+# GitHub repository info
+github:
+  repository_url: https://github.com/k-kc/abolition-course
+  owner_name: k-kc
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:name
+
+# Exclude files
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
