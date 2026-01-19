@@ -1,13 +1,6 @@
 ---
 layout: default
-title: "POLSCI B372: From Beccaria to #BlackLivesMatter"
----
-# From Beccaria to #BlackLivesMatter: The Long Abolition Movement
-## POLS B372-001 | Spring 2026
-
-**Meeting Time:** Tuesdays, 1:00–4:00 PM  
-**Professor:** Kierstan Kaushal-Carter 
-**Office Hours:** Thursdays in person 12-2 PM
+title: "Schedule & Readings"
 ---
 
 ## UNIT 1: Origins & Logic of the Prison 
