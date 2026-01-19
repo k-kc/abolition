@@ -17,8 +17,7 @@ Dalton Hall 300
 ---
 
 ## Announcements
-
-Check back later for more 
+Check back later for more
 
 ---
 
@@ -35,6 +34,7 @@ By the end of this course, you will understand the intellectual genealogies of c
 ## Course Navigation
 
 * [Schedule & Readings](syllabus-final.md)
+* [Assignments](assignments.md)
 * [Course Policies](policies.md)
 
 ---
