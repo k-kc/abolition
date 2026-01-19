@@ -34,8 +34,8 @@ By the end of this course, you will understand the intellectual genealogies of c
 
 ## Course Navigation
 
-* [Schedule & Readings](/syllabus-final.md)
-* [Course Policies](/policies.md)
+* [Schedule & Readings](/docs/syllabus-final.md)
+* [Course Policies](/docs/policies.md)
 
 ---
 
