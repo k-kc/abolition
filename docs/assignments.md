@@ -34,3 +34,19 @@ Analyze a contemporary carceral problem through at least 3 theoretical framework
 Submit weekly for weeks 5-13. Include: main argument, 2-3 key concepts, one confusing passage, connection to prior readings, one discussion question.
 
 ---
+## Topic Bank: Possible Carceral Sites & Problems
+
+Students may choose from this list or propose their own (with instructor approval):
+
+- Immigration detention (ICE detention, border cages, deportation)
+- School discipline and the school-to-prison pipeline
+- Psychiatric commitment and forced medication
+- Surveillance technologies (facial recognition, gang databases, predictive policing)
+- Digital incarceration (ankle monitors, location tracking)
+- Fines, fees, and debt as punishment
+- Addiction treatment and drug courts
+- Gang violence prevention programs
+- Solitary confinement
+- Women's prisons and carcerality
+- Native American incarceration and Indian Country
+- Bail and pre-trial detention
