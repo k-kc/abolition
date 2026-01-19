@@ -248,3 +248,5 @@ No readings this week.
 | Friday, March 27 | Annotated Bibliography Due |
 | Tuesday, April 21 & 28 | In-Class Presentations |
 | Friday, May 8 | Final Paper Due |
+
+[← Back to Home](index.md)
