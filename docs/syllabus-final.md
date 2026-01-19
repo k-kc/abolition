@@ -62,7 +62,7 @@ No readings this week.
 
 - Alexis de Tocqueville & Gustave de Beaumont, selections
 
-- Eastern State Penitentiary documentary materials (film and archival documents)
+- [Eastern State Penitentiary](https://www.youtube.com/watch?v=0ikUWU3cbq8) directed by Christine Bowditch (Forged Images Production Cooperative, 1998)
 
 **Topics:** The penitentiary as American innovation; reform ideology; architecture and surveillance; the prison as experiment
 
