@@ -1,3 +1,7 @@
+---
+layout: default
+title: "POLSCI B372: From Beccaria to #BlackLivesMatter"
+---
 # From Beccaria to #BlackLivesMatter: The Long Abolition Movement
 ## POLS B372-001 | Spring 2026
 
