@@ -13,29 +13,41 @@ Cesare Beccaria, On Crimes and Punishments (1764), selections:
 Jeremy Bentham, "On Death Punishment; Letter to His Fellow Citizens of France" (1831) (~30 pages)
 
 ## Week 3, Feb 3 - Reformation and Prison in the Early American Republic 
-Robert Dale Owen, A New View of Society, (selections): 
 - 
+Robert Owen, _A New View of Society_ (1816) (selections)
+-["Essay Three: An account of the plans in progress at New Lanark for the further improvement of its inhabitants'](https://www.marxists.org/reference/subject/economics/owen/society/ch03.htm)
+- ["Essay Four: The end of government is to make the governed and the governors happy."](https://www.marxists.org/reference/subject/economics/owen/society/ch04.htm)
 Alexis de Tocqueville & Gustave de Beaumont, selections
-- 
-Eastern State Penitentiary documentary materials (~20 pages)
+["Eastern State Penitentiary"](https://www.youtube.com/watch?v=0ikUWU3cbq8), directed by Christine Bowditch (Forged Images Production Cooperative, 1998).
 
 ## Week 4, Feb 10 - Punishment in the New Metroplis
-Eugene V. Debs, Walls and Bars (selections)
-- 
+
+Eugene V. Debs, ["_Walls and Bars_"](https://archive.org/details/wallsbars00debs/page/n17/mode/2up) (1927) (selections)
+- "Chapter II - Prisons as an Incubator of Crime"
+- "Chapter X - General Prison Conditions"
+- "Chater XI - Poverty Populates the Prison"
+- "Chapter XII - Creating the Criminal"
+- "Chapter XIV - Capitalism and Crime"
+- Chapter XVIII - Studies Behind Prison Walls" 
 Cheryl D. Hicks, "'In Danger of Becoming Morally Depraved': Single Black Women, Working-Class Black Families, and New York State's Wayward Minor Laws, 1917-1928" 
 Kelly Lytle Hernández, "Hobos in Heaven: Race, Incarceration, and the Rise of Los Angeles, 1880–1910," (2014)
 
 # Unit 2 - Contemporary Critics of the Prison & Police
 
 ## Week 5, Feb 17 - Reconstruction & Racial Control 
-W.E.B. Du Bois, Black Reconstruction in America (1935):
+W.E.B. Du Bois, Black Reconstruction in America (1935)
 - Chapter I: The Black Worker
 - Chapter VII: The Meaning of Freedom
 Angela Davis, "Abolition Democracy" in Abolition Democracy: Beyond Empires, Prison and Torture"
 
+Topic Proposals Due Friday, Feb 20 at 11:59 PM via email 
+
 ## Week 6, Feb 24 - The Factory & The Prison
-- Karl Marx & Frederick Engels, curated selections on factory discipline, the production of surplus populations, labor control
-- Ruth Wilson Gilmore, "The Prison Fix" in ["_Golden Gulag: prisons, Surplus, Crisis, and Opposition in Globalizing California_"](https://cominsitu.wordpress.com/wp-content/uploads/2018/08/gilmore-ruth-wilson-golden-gulag-2007.pdf)(2007)
+Karl Marx & Frederick Engels, curated selections on factory discipline, the production of surplus populations, labor control
+
+Ruth Wilson Gilmore,["_Golden Gulag: prisons, Surplus, Crisis, and Opposition in Globalizing California_"](https://cominsitu.wordpress.com/wp-content/uploads/2018/08/gilmore-ruth-wilson-golden-gulag-2007.pdf)(2007)
+ - "Chapter 2. The California Political Economy"
+ - "Chapter 3. The Prison Fix"
    
 ## Week  7, Mar 3 - Discipline & State Repression
 Michel Foucault, ["_Discipline and Punish: The Birth of the Prison_"](https://monoskop.org/images/4/43/Foucault_Michel_Discipline_and_Punish_The_Birth_of_the_Prison_1977_1995.pdf)(1975)
@@ -59,6 +71,8 @@ Mariame Kaba, _We Do This 'Til We Free Us_(2021), selections
 - Part 1. So You're Thinking About Becoming an Abolitionist
 - "A People's History of Prisons in the United States"
 - "Arresting the Carceral State"
+
+Annotated Bibliography Due Friday, March 27 at 11:59 PM via email 
 
 # Unit 3 - Prison's Obsolescence 
 ## Week 11, Mar 31 - Criticcal Resistance 
@@ -88,3 +102,5 @@ Presentations & Contemporary Carceral Sites I
 
 # Week 15, Apr 28 
 Presentations & Contemporary Carceral Sites II
+
+Final Paper due Friday, May 8 at 11:59 PM 
