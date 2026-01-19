@@ -153,3 +153,5 @@ Written feedback on essays will be provided within two weeks of submission.
 ## Course Changes
 
 I reserve the right to modify the syllabus, readings, and assignments with advance notice. Major changes will be announced in class and posted on the course website. If you have questions about any changes, ask me.
+
+[← Back to Home](index.md)
