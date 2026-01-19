@@ -8,25 +8,6 @@ title: "POLSCI B372: From Beccaria to #BlackLivesMatter"
 **Meeting Time:** Tuesdays, 1:00–4:00 PM  
 **Professor:** Kierstan Kaushal-Carter 
 **Office Hours:** Thursdays in person 12-2 PM
-
----
-
-## Course Overview
-
-This seminar traces the genealogy of prison abolition as both theory and practice, from the philosophical origins of the modern prison through contemporary movements to dismantle carceral systems. We begin with foundational texts on punishment and imprisonment before turning to how abolition thinkers—particularly Angela Davis, Ruth Wilson Gilmore, and Mariame Kaba—have theorized and practiced the dismantling of police and prisons.
-
-
----
-
-## Course Requirements & Grading
-
-| Component | Weight |
-|-----------|--------|
-| Final Paper (15-20 pages) | 40% |
-| Scaffolded Assignments (Topic Proposal + Annotated Bibliography) | 30% |
-| Presentations (Weeks 14-15) | 15% |
-| Participation & Discussion Prep | 15% |
-
 ---
 
 ## UNIT 1: Origins & Logic of the Prison 
