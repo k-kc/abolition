@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "POLSCI B372: From Beccaria to #BlackLivesMatter"
+title: "Assignments & Grading"
 ---
 ## Course Requirements & Grading
 
