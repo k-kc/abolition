@@ -23,11 +23,7 @@ Check back later for more
 
 ## About This Course
 
-This course traces the political thought and practice of abolition from eighteenth-century critiques of punishment to contemporary struggles against mass incarceration and policing. We will study foundational thinkers such as Beccaria, Bentham, Douglass, Jacobs, and Wells alongside twentieth- and twenty-first-century voices including Angela Davis, Ruth Wilson Gilmore, and Mariame Kaba.
-
-Throughout the semester, we will emphasize that **abolition is not merely a theory but emerges out of struggles against particular conditions**—whether the brutality of slavery, the violence of Jim Crow lynching, or the reach of the carceral state. Students will encounter abolition as a living tradition of political thought and action, one that continues to evolve in response to ongoing struggles for justice and freedom.
-
-By the end of this course, you will understand the intellectual genealogies of contemporary abolitionist movements and be able to critically engage with debates about punishment, policing, and the possibilities for transformative justice.
+This seminar traces the genealogy of prison abolition from the philosophical origins of the modern prison through contemporary movements to dismantle carceral systems. We examine how the prison emerged as a reform solution to social problems, then turn to three major abolition thinkers—Angela Davis, Ruth Wilson Gilmore, and Mariame Kaba—and the intellectual traditions that inform their work. Through close reading and discussion, students learn to apply abolition frameworks to analyze contemporary carceral systems and imagine alternatives to incarceration.
 
 ---
 
