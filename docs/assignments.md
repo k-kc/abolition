@@ -1,3 +1,7 @@
+---
+layout: default
+title: "POLSCI B372: From Beccaria to #BlackLivesMatter"
+---
 ## Course Requirements & Grading
 
 | Component | Weight |
