@@ -90,7 +90,9 @@ No readings this week.
 **The Factory & The Prison**
 
 **Readings:**
-- Karl Marx, Capital Vol.1 selections 
+- Karl Marx, _The Marx-Engels Reader_edited by Robert C. Tucker
+  - "Wage Labor and Capital" (1847)
+  - "F. Population, Overpulation, and Malthus" (pg. 276-278)
 
 - Ruth Wilson Gilmore, *[Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing California](https://cominsitu.wordpress.com/wp-content/uploads/2018/08/gilmore-ruth-wilson-golden-gulag-2007.pdf)* (2007):
   - Chapter 2: The California Political Economy
