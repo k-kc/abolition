@@ -16,7 +16,7 @@ No readings this week.
 **Enlightened Punishment**
 
 **Readings:**
-- Cesare Beccaria, *On Crimes and Punishments* (1764), selections:
+- Cesare Beccaria, [*On Crimes and Punishments* (1764)](beccaria-crimes-and-punishment.pdf), selections:
   - Chapter I: Of the Origin of Punishment
   - Chapter II: Of the Right to Punish
   - Chapter VI: Of the Proportion Between Crimes and Punishment
@@ -24,7 +24,7 @@ No readings this week.
   - Chapter XXVIII: Of the Punishment of Death
   - Chapter XXIX: Of Imprisonment
 
-- Jeremy Bentham, "On Death Punishment; Letter to His Fellow Citizens of France" (1831)
+- Jeremy Bentham, ["On Death Punishment; Letter to His Fellow Citizens of France" (1831)](https://oll.libertyfund.org/titles/bowring-the-works-of-jeremy-bentham-vol-1#lf0872-01_label_2912)
 
 **Topics:** Enlightenment philosophy of punishment; utilitarianism and deterrence; the birth of the penitentiary ideal
 
