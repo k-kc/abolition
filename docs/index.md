@@ -17,7 +17,7 @@ Dalton Hall 300
 ---
 
 ## Announcements
-Check back later for more
+**[Required texts](required-texts.md) are now posted!**
 
 ---
 
@@ -30,6 +30,7 @@ This seminar traces the genealogy of prison abolition from the philosophical ori
 ## Course Navigation
 
 * [Schedule & Readings](syllabus-final.md)
+* [Required Texts](required-texts.md)
 * [Assignments](assignments.md)
 * [Course Policies](policies.md)
 
