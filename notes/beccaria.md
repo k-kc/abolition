@@ -15,3 +15,13 @@
   - roughly tracks the distinction between criminal, civil, and tort law
  
 - **crime as a social construct** : He will frequently observe, that the passions and vices of one age, are the foundation of the morality of the following
+
+## CHAPTER XII.: OF THE INTENT OF PUNISHMENTS
+- **deterrence**: The end of punishment, therefore, is no other, than to prevent others from committing the like offence. Such punishments, therefore, and such a mode of inflicting them, ought to be chosen, as will make strongest and most lasting impressions on the minds of others with the least torment to the body of the criminal.
+  - a hard line to walk. 
+
+## CHAPTER XXVIII.: OF THE PUNISHMENT OF DEATH.
+- **social contract doesnt allow it**:  The laws, as I have said before, are only the sum of the smallest portions of the private liberty of each individual, and represent the general will, which is the aggregate of that of each individual. Did any one ever give to others the right of taking away his life?
+
+- **efficaciousness of imprisonment**: The death of a criminal is a terrible but momentary spectacle, and therefore a less efficacious method of deterring others, than the continued example of a man deprived of his liberty
+  - **you sometimes feel sorry for the condemned:** The execution of a criminal is, to the multitude, a spectacle which in some excites compassion mixed with indignation.  
