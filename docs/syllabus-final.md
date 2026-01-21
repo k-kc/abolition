@@ -16,7 +16,7 @@ No readings this week.
 **Enlightened Punishment**
 
 **Readings:**
-- Cesare Beccaria, [*On Crimes and Punishments* (1764)](beccaria-crimes-and-punishment.pdf), selections:
+- Cesare Beccaria, [*On Crimes and Punishments* (1764)](assets/beccaria-crimes-and-punishment.pdf), selections:
   - Chapter I: Of the Origin of Punishment
   - Chapter II: Of the Right to Punish
   - Chapter VI: Of the Proportion Between Crimes and Punishment
