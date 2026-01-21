@@ -24,4 +24,13 @@
 - **social contract doesnt allow it**:  The laws, as I have said before, are only the sum of the smallest portions of the private liberty of each individual, and represent the general will, which is the aggregate of that of each individual. Did any one ever give to others the right of taking away his life?
 
 - **efficaciousness of imprisonment**: The death of a criminal is a terrible but momentary spectacle, and therefore a less efficacious method of deterring others, than the continued example of a man deprived of his liberty
-  - **you sometimes feel sorry for the condemned:** The execution of a criminal is, to the multitude, a spectacle which in some excites compassion mixed with indignation.  
+  - **you sometimes feel sorry for the condemned:** The execution of a criminal is, to the multitude, a spectacle which in some excites compassion mixed with indignation.
+ 
+- **prisons instead:** Perpetual slavery, then, has in it all that is necessary to deter the most hardened and determined, as much as the punishment of death.
+
+- **death v. imprisonment**: I shall be told, that perpetual slavery is as painful a punishment as death, and therefore as cruel. I answer, that if all the miserable moments in the life of a slave were collected into one point, it would be a more cruel punishment than any other; but these are scattered through his whole life, whilst the pain of death exerts all its force in a moment.
+ - that it is more terrible to the spectator than to the sufferer himself; for the spectator considers the sum of all his wretched moments, whilst the sufferer, by the misery of the present, is prevented from thinking of the future.
+ - All evils are increased by the imagination, and the sufferer finds resources and consolation, of which the spectators are ignoran
+
+- **illogical/counterproductive**:  Is it not absurd, that the laws, which detect and punish homicide, should, in order to prevent murder, publicly commit murder themselves? What are the true and most useful laws?
+  - invite retribution: “Ah! those cruel formalities of justice are a cloak to tyranny, they are a secret language, a solemn veil, intended to conceal the sword by which we are sacrificed to the insatiable idol of despotism. Murder, which they would represent to us as an horrible crime, we see practiced by them without repugnance or remorse. Let us follow their example.
