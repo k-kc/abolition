@@ -24,9 +24,8 @@ No readings this week.
   - Chapter XXVIII: Of the Punishment of Death
   - Chapter XXIX: Of Imprisonment
 
-- Jeremy Bentham, ["On Death Punishment; Letter to His Fellow Citizens of France" (1831)](https://oll.libertyfund.org/titles/bowring-the-works-of-jeremy-bentham-vol-1#lf0872-01_label_2912)
-  - **NOTE**: Stop when you reach the heading "Capital Punishments"
-
+- Jeremy Bentham, "Panopticon, or, the Inspection-House Letters 1, 2, 6" in _Selected Writings_ (2011). 
+  
 **Topics:** Enlightenment philosophy of punishment; utilitarianism and deterrence; the birth of the penitentiary ideal
 
 ---
