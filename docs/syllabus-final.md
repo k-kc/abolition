@@ -24,7 +24,7 @@ No readings this week.
   - Chapter XXVIII: Of the Punishment of Death
   - Chapter XXIX: Of Imprisonment
 
-- Jeremy Bentham, "Panopticon, or, the Inspection-House Letters 1, 2, 6" in _Selected Writings_ (2011). 
+- Jeremy Bentham, ["Panopticon, or, the Inspection-House Letters 1, 2, 6"](assets/bentham-panopticon-letters.pdf) in _Selected Writings_ (2011). 
   
 **Topics:** Enlightenment philosophy of punishment; utilitarianism and deterrence; the birth of the penitentiary ideal
 
