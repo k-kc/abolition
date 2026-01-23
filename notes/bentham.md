@@ -11,4 +11,10 @@ I'm so excited to share Bentham with you all
   - he was one of the first to call for the end to england's sodomy laws
   - he wrote letters to the founding fathers to offer them advice on how to structure their new constitution (badgering james madison)
   - he wrote that his head/body should be preserved into the UCL charter
-  - the university incidently was founded on Bentham's principles  
+  - the university incidently was founded on Bentham's principles and became the first to admit students irrespective of race, gender, social status, etc. 
+ 
+
+
+the economist John Maynard Keynes once observed that "the ideas of economists and political philosophers both when they are right and when they are wrong are more powerful than is commonly understood. Indeed...Practical men...are usually the slaves of some defunct economist." 
+
+I think Keynes is right in general, but he's especially right about the strange career of Jeremy Bentham. Jeremy Bentham 
