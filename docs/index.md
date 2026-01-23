@@ -8,11 +8,10 @@ title: "POLSCI B372: From Beccaria to #BlackLivesMatter"
 ## The Long Abolition Movement
 
 Tu 1:10PM - 4:00PM
-Dalton Hall 300
-
+Old Library 118 
 **Professor:** Kierstan Kaushal-Carter  
 **Contact:** kkc@brynmawr.edu
-**Office Hours via Zoom:** Tuesdays 2-3 PM
+**Office Hours:** Thursdays 12-2
 
 ---
 
