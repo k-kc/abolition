@@ -1,9 +1,8 @@
 
 
 ## Passages
-Beccaria main: CHAPTER XII.
-OF THE INTENT OF PUNISHMENTS.
-From the foregoing considerations it is evident, that the intent of punishments is not to
+Beccaria main: from CHAPTER XII. OF THE INTENT OF PUNISHMENTS.
+"From the foregoing considerations it is evident, that the intent of punishments is not to
 torment a sensible being, nor to undo a crime already committed. Is it possible that
 torments, and useless cruelty, the instruments of furious fanaticism, or of impotency
 of tyrants, can be authorized by a political body? which, so far from being influenced
@@ -12,12 +11,46 @@ groans of a tortured wretch recal the time past, or reverse the crime he has com
 The end of punishment, therefore, is no other, than to prevent others from committing
 the like offence. Such punishments, therefore, and such a mode of inflicting them,
 ought to be chosen, as will make strongest and most lasting impressions on the minds
-of others, with the least torment to the body of the criminal.
+of others, with the least torment to the body of the criminal."
 
 
-Beccaria alt: 
-Beccaria alt: 
-Beccaria alt: 
+Beccaria alt: from Chapter I: the origins of punishment 
+"Some motives, therefore, that strike the
+senses, were necessary to prevent the despotism of each individual from plunging
+society into its former chaos. Such motives are the punishment established against the
+infractors of the laws. I say that motives of this kind are necessary; because
+experience shews that, the multitude adopt no established rules of conduct; and
+because, society is prevented from approaching to that dissolution (to which, as well
+as all other parts of the physical and moral world, it naturally tends) only by motives
+that are the immediate objects of sense, and which, being continually presented to the
+mind, are sufficient to counterbalance the effects of the passions of the individual
+which oppose the general good." 
+
+
+Beccaria alt: from Chapter II : the right to punish 
+"The multiplication of mankind, though slow, being too great for the means which the
+earth, in its natural state, offered to satisfy necessities, which every day became more
+numerous, obliged men to separate again, and form new societies. These naturally
+opposed the first, and a state of war was transferred from individuals to nations.
+Thus it was necessity that forced men to give up a part of their liberty; it is certain,
+then, that every individual would chuse to put into the public stock the smallest
+portion possible; as much only as was sufficient to engage others to defend it. The
+aggregate of these, the smallest portions possible, forms the right of punishing: all that
+extends beyond this is abuse, not justice."
+
+Beccaria alt: from Chapter VI: OF THE PROPORTION BETWEEN CRIMES AND
+PUNISHMENTS 
+
+"That force which continually impels us to our own private interest, like gravity, acts
+incessantly, unless it meets with an obstacle to oppose it. The effects of this force are
+the confused series of human actions. Punishments, which I would call political
+obstacles, prevent the fatal effects of private interest, without destroying the impelling
+cause, which is that sensibility inseparable from man. The legislator acts, in this case,
+like a skilful architect, who endeavours to counteract the force of gravity by
+combining the circumstances which may contribute to the strength of his edifice"
+
+
+Death penalty 
 
 Bentham main: 
 Benthnam lt: 
