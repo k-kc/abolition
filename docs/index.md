@@ -18,6 +18,8 @@ Old Library 118
 ## Announcements
 
 Class today (1/27) will be held via Zoom [link](https://upenn.zoom.us/j/3527819400?omn=96377905981)
+
+
 **[Required texts](required-texts.md) are now posted!**
 
 ---
