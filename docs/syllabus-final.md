@@ -34,7 +34,7 @@ No readings this week.
 **Reformation and Prison in the Early American Republic**
 
 **Readings:**
-- Robert Dale Owen, ["Essay 2"](/assets/owens-a-new-view-of-society-2.pdf) in *A New View of Society* (1816)
+- Robert Dale Owen, ["Essay 2"](assets/owens-a-new-view-of-society-2.pdf) in *A New View of Society* (1816)
 
 - Beaumont and Tocqueville,["Chapter 2"](/assets/beaumont-tocqueville-penitentiary.pdf) in _On the Penitentiary System in the United States and its Application to Frace_(1833)
 
