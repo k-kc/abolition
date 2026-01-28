@@ -36,7 +36,7 @@ No readings this week.
 **Readings:**
 - Robert Dale Owen, ["Essay 2"](assets/owens-a-new-view-of-society-2.pdf) in *A New View of Society* (1816)
 
-- Beaumont and Tocqueville,["Chapter 2"](/assets/beaumont-tocqueville-penitentiary.pdf) in _On the Penitentiary System in the United States and its Application to Frace_(1833)
+- Beaumont and Tocqueville,["Chapter 2"](assets/beaumont-tocqueville-penitentiary.pdf) in _On the Penitentiary System in the United States and its Application to Frace_(1833)
 
 - [Eastern State Penitentiary](https://www.youtube.com/watch?v=0ikUWU3cbq8) directed by Christine Bowditch (Forged Images Production Cooperative, 1998)
 
