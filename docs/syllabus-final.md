@@ -34,11 +34,9 @@ No readings this week.
 **Reformation and Prison in the Early American Republic**
 
 **Readings:**
-- Robert Dale Owen, *A New View of Society* (1816), selections:
-  - [Essay Three: An account of the plans in progress at New Lanark](https://www.marxists.org/reference/subject/economics/owen/society/ch03.htm)
-  - [Essay Four: The end of government is to make the governed and the governors happy](https://www.marxists.org/reference/subject/economics/owen/society/ch04.htm)
+- Robert Dale Owen, ["Essay 2"](/assets/owens-a-new-view-of-society-2.pdf) in *A New View of Society* (1816)
 
-- Alexis de Tocqueville & Gustave de Beaumont, selections
+- Beaumont and Tocqueville,["Chapter 2"](/assets/beaumont-tocqueville-penitentiary.pdf) in _On the Penitentiary System in the United States and its Application to Frace_(1833)
 
 - [Eastern State Penitentiary](https://www.youtube.com/watch?v=0ikUWU3cbq8) directed by Christine Bowditch (Forged Images Production Cooperative, 1998)
 
