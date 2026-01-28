@@ -17,8 +17,7 @@ Old Library 118
 
 ## Announcements
 
-Class today (1/27) will be held via Zoom [link](https://upenn.zoom.us/j/3527819400?omn=96377905981)
-
+[Tues, Feb 3](https://github.com/k-kc/abolition/blob/main/docs/syllabus-final.md#week-3-tuesday-february-3) readings updated! 
 
 **[Required texts](required-texts.md) are now posted!**
 
