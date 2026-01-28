@@ -17,7 +17,7 @@ Old Library 118
 
 ## Announcements
 
-[Tues, Feb 3](https://github.com/k-kc/abolition/blob/main/docs/syllabus-final.md#week-3-tuesday-february-3) readings updated! 
+[Tues, Feb 3](/syllabus-final.md#week-3-tuesday-february-3) readings updated! 
 
 **[Required texts](required-texts.md) are now posted!**
 
