@@ -106,6 +106,7 @@ No readings this week.
 - Ruth Wilson Gilmore, "Crime, Croplands, and Capitalism" in *[Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing California](https://cominsitu.wordpress.com/wp-content/uploads/2018/08/gilmore-ruth-wilson-golden-gulag-2007.pdf)* (2007)
 
 **Topics:** How race gets linked to crime and social disorder; the ideological work of carcerality; how neoliberal crisis gets solved through carceral expansion
+
 ---
 
 ### Week 8: Tuesday, March 10
@@ -143,6 +144,7 @@ No readings this week.
 **ASSIGNMENT DUE: Annotated Bibliography (8-12 sources) — Friday, March 27 at 11:59 PM via email**
 
 ---
+
 ### Week 11: Tuesday, March 31
 **Critical Resistance & Abolition**
 
