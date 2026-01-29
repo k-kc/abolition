@@ -44,32 +44,27 @@ No readings this week.
 
 ---
 
+## UNIT 2: Contemporary Critics of the Prison & Police (Weeks 4-13)
 ### Week 4: Tuesday, February 10
-**Punishment in the New Metropolis**
+
+**Race & Repression during Reconstruction**
 
 **Readings:**
-- Eugene V. Debs, *[Walls and Bars](https://archive.org/details/wallsbars00debs/page/n17/mode/2up)* (1927), selections:
-  - Chapter II: Prisons as an Incubator of Crime
-  - Chapter X: General Prison Conditions
-  - Chapter XI: Poverty Populates the Prison
-  - Chapter XII: Creating the Criminal
-  - Chapter XIV: Capitalism and Crime
-  - Chapter XVIII: Studies Behind Prison Walls
+- Ida B. Wells, ["The Convict Lease System,"](https://www.historyisaweapon.com/defcon1/idabwellsconlea.html) (1893)
 
-- Cheryl D. Hicks, "'In Danger of Becoming Morally Depraved': Single Black Women, Working-Class Black Families, and New York State's Wayward Minor Laws, 1917-1928"
+- Angela Davis, ["Racialized Punishment and Prison Abolition"](https://doubleoperative.com/wp-content/uploads/2010/09/racialized-punishment-and-prison-abolition.pdf) (1988)
 
-- Kelly Lytle Hernández, "Hobos in Heaven: Race, Incarceration, and the Rise of Los Angeles, 1880–1910," *Pacific Historical Review* 83.3 (2014): 410–47
+- Dennis Childs, "Angola Penitentiary: The Once and Future Slave Plantation" in _Slaves of the State_
+**Topics:** The shift from sovereign power to disciplinary power; surveillance and normalization; how Davis uses and critiques these ideas; the prison as technology of political control
 
-**Topics:**  Incarceration's development; gender and juvenile carcerality; the prison as response to labor and social anxiety
-
----
-
-## UNIT 2: Contemporary Critics of the Prison & Police (Weeks 5-13)
 
 ### Week 5: Tuesday, February 17
+
+
 **Reconstruction & Racial Control**
 
 **Readings:**
+
 - W.E.B. Du Bois, *Black Reconstruction in America* (1935):
   - Chapter I: The Black Worker
   - Chapter VII: The Meaning of Freedom
@@ -92,28 +87,35 @@ No readings this week.
   - "Wage Labor and Capital" (1847)
   - "F. Population, Overpulation, and Malthus" (pg. 276-278)
 
+- Michel Foucault, "The Body of the Condemned" *[Discipline and Punish: The Birth of the Prison](https://monoskop.org/images/4/43/Foucault_Michel_Discipline_and_Punish_The_Birth_of_the_Prison_1977_1995.pdf)* (1975)
+
+- Eugene V. Debs, *[Walls and Bars](https://archive.org/details/wallsbars00debs/page/n17/mode/2up)* (1927), selections:
+  - Chapter II: Prisons as an Incubator of Crime
+  - Chapter X: General Prison Conditions
+  - Chapter XI: Poverty Populates the Prison
+  - Chapter XII: Creating the Criminal
+  - Chapter XIV: Capitalism and Crime
+  - Chapter XVIII: Studies Behind Prison Walls
+
 - Ruth Wilson Gilmore, *[Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing California](https://cominsitu.wordpress.com/wp-content/uploads/2018/08/gilmore-ruth-wilson-golden-gulag-2007.pdf)* (2007):
   - Chapter 2: The California Political Economy
   - Chapter 3: The Prison Fix
 
 **Topics:** Primitive accumulation and surplus populations; discipline in the factory; how capitalism produces disposable people; the connection between industrial and carceral discipline
 
+**Punishment in the New Metropolis**
+
+**Readings:**
+
+**Topics:**  Incarceration's development; gender and juvenile carcerality; the prison as response to labor and social anxiety
+
+
 **Discussion Prep Sheet Due:** Tuesday, February 24 by 12:00 PM
 
 ---
 
 ### Week 7: Tuesday, March 3
-**Discipline & State Repression**
 
-**Readings:**
-- Michel Foucault, *[Discipline and Punish: The Birth of the Prison](https://monoskop.org/images/4/43/Foucault_Michel_Discipline_and_Punish_The_Birth_of_the_Prison_1977_1995.pdf)* (1975), selections:
-  - "The Gentle Way in Punishment"
-  - "Panopticism"
-  - "The Carceral"
-
-- Angela Davis, ["Racialized Punishment and Prison Abolition"](https://doubleoperative.com/wp-content/uploads/2010/09/racialized-punishment-and-prison-abolition.pdf) (1988)
-
-**Topics:** The shift from sovereign power to disciplinary power; surveillance and normalization; how Davis uses and critiques these ideas; the prison as technology of political control
 
 **Discussion Prep Sheet Due:** Tuesday, March 3 by 12:00 PM
 
