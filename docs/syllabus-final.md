@@ -45,8 +45,8 @@ No readings this week.
 ---
 
 ## UNIT 2: Contemporary Critics of the Prison & Police (Weeks 4-13)
-### Week 4: Tuesday, February 10
 
+### Week 4: Tuesday, February 10
 **Race & Repression during Reconstruction**
 
 **Readings:**
@@ -55,14 +55,13 @@ No readings this week.
 - Angela Davis, ["Racialized Punishment and Prison Abolition"](https://doubleoperative.com/wp-content/uploads/2010/09/racialized-punishment-and-prison-abolition.pdf) (1988)
 
 - Dennis Childs, "Angola Penitentiary: The Once and Future Slave Plantation" in _Slaves of the State_
-**Topics:** The shift from sovereign power to disciplinary power; surveillance and normalization; how Davis uses and critiques these ideas; the prison as technology of political control
 
+**Topics:** The shift from sovereign power to disciplinary power; how Davis uses and critiques these ideas; the prison as technology of racial control
+
+---
 
 ### Week 5: Tuesday, February 17
-
-
-**Reconstruction & Racial Control**
-
+**The Meaning of Emanicipation**
 **Readings:**
 
 - W.E.B. Du Bois, *Black Reconstruction in America* (1935):
@@ -72,8 +71,6 @@ No readings this week.
 - Angela Davis, "Abolition Democracy" in *Abolition Democracy: Beyond Empires, Prison and Torture*
 
 **Topics:** Reconstruction as emancipatory possibility; the theft of Black labor; how the carceral state replaced slavery as a mechanism of racial control
-
-**Discussion Prep Sheet Due:** Tuesday, February 17 by 12:00 PM
 
 **ASSIGNMENT DUE: Topic Proposal (2-3 pages) — Friday, February 20 at 11:59 PM via email**
 
@@ -87,15 +84,10 @@ No readings this week.
   - "Wage Labor and Capital" (1847)
   - "F. Population, Overpulation, and Malthus" (pg. 276-278)
 
-- Michel Foucault, "The Body of the Condemned" *[Discipline and Punish: The Birth of the Prison](https://monoskop.org/images/4/43/Foucault_Michel_Discipline_and_Punish_The_Birth_of_the_Prison_1977_1995.pdf)* (1975)
-
 - Eugene V. Debs, *[Walls and Bars](https://archive.org/details/wallsbars00debs/page/n17/mode/2up)* (1927), selections:
-  - Chapter II: Prisons as an Incubator of Crime
-  - Chapter X: General Prison Conditions
   - Chapter XI: Poverty Populates the Prison
   - Chapter XII: Creating the Criminal
   - Chapter XIV: Capitalism and Crime
-  - Chapter XVIII: Studies Behind Prison Walls
 
 - Ruth Wilson Gilmore, *[Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing California](https://cominsitu.wordpress.com/wp-content/uploads/2018/08/gilmore-ruth-wilson-golden-gulag-2007.pdf)* (2007):
   - Chapter 2: The California Political Economy
@@ -103,30 +95,9 @@ No readings this week.
 
 **Topics:** Primitive accumulation and surplus populations; discipline in the factory; how capitalism produces disposable people; the connection between industrial and carceral discipline
 
-**Punishment in the New Metropolis**
-
-**Readings:**
-
-**Topics:**  Incarceration's development; gender and juvenile carcerality; the prison as response to labor and social anxiety
-
-
-**Discussion Prep Sheet Due:** Tuesday, February 24 by 12:00 PM
-
 ---
 
 ### Week 7: Tuesday, March 3
-
-
-**Discussion Prep Sheet Due:** Tuesday, March 3 by 12:00 PM
-
----
-
-### Week 8: Tuesday, March 10
-**SPRING BREAK — NO CLASS**
-
----
-
-### Week 9: Tuesday, March 17
 **Race & The Carceral State**
 
 **Readings:**
@@ -135,12 +106,14 @@ No readings this week.
 - Ruth Wilson Gilmore, "Crime, Croplands, and Capitalism" in *[Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing California](https://cominsitu.wordpress.com/wp-content/uploads/2018/08/gilmore-ruth-wilson-golden-gulag-2007.pdf)* (2007)
 
 **Topics:** How race gets linked to crime and social disorder; the ideological work of carcerality; how neoliberal crisis gets solved through carceral expansion
+---
 
-**Discussion Prep Sheet Due:** Tuesday, March 17 by 12:00 PM
+### Week 8: Tuesday, March 10
+**SPRING BREAK — NO CLASS**
 
 ---
 
-### Week 10: Tuesday, March 24
+### Week 9: Tuesday, March 17
 **Revolutionary Consciousness & Community Power**
 
 **Readings:**
@@ -149,10 +122,6 @@ No readings this week.
   - Letters on revolutionary consciousness and transformation
   - Letters to lawyer Fay Stender on prison conditions
 
-- Grace Lee Boggs, *The American Revolution: Pages from a Negro Worker's Notebook* (1974), selections:
-  - "Rebels with a Cause"
-  - "The American Revolution"
-
 - Mariame Kaba, *We Do This 'Til We Free Us* (2021), selections:
   - Part 1: So You're Thinking About Becoming an Abolitionist
   - "A People's History of Prisons in the United States"
@@ -160,25 +129,28 @@ No readings this week.
 
 **Topics:** Community self-determination; revolutionary consciousness from inside prison; the practice of abolition; how communities build power together
 
-**Discussion Prep Sheet Due:** Tuesday, March 24 by 12:00 PM
+---
+
+## UNIT 3: Prison's Obsolescence (Weeks 10-13)
+
+### Week 10: Tuesday, March 24
+**Readings:**
+- Angela Davis, *Are Prisons Obsolete?* (2003) Chapters 1-3
+
+- Thomas Mathiesen, "The Unfinished Part" in _The Politics of Abolition_ (1978)
+**Topics:** 
 
 **ASSIGNMENT DUE: Annotated Bibliography (8-12 sources) — Friday, March 27 at 11:59 PM via email**
 
 ---
-
-## UNIT 3: Prison's Obsolescence (Weeks 11-13)
-
 ### Week 11: Tuesday, March 31
 **Critical Resistance & Abolition**
 
 **Readings:**
-- Angela Davis, *Are Prisons Obsolete?* (2003)
-
+- Angela Davis, *Are Prisons Obsolete?* (2003) Chapters 4-6
 - *[The Abolitionist](https://criticalresistance.org/abolitionist/issue-2-summer-2005/)*, Vol. 2, Summer 2005 (selections)
 
 **Topics:** The prison industrial complex; what prisons actually do; abolition as vision and practice; historical functions of prisons
-
-**Discussion Prep Sheet Due:** Tuesday, March 31 by 12:00 PM
 
 ---
 
@@ -196,8 +168,6 @@ No readings this week.
 
 **Topics:** Abolition as geographic practice; carceral geography beyond prisons; how abolition connects to environmental justice
 
-**Discussion Prep Sheet Due:** Tuesday, April 7 by 12:00 PM
-
 ---
 
 ### Week 13: Tuesday, April 14
@@ -213,8 +183,6 @@ No readings this week.
   - Part VII: Show Up and Don't Travel Alone: We Need Each Other
 
 **Topics:** Transformative justice as practice; community accountability and healing; abolition feminism; how to build power among the most marginalized; hope as a discipline we practice
-
-**Discussion Prep Sheet Due:** Tuesday, April 14 by 12:00 PM
 
 ---
 
