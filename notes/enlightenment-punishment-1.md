@@ -156,3 +156,18 @@
 #### Textual Analysis
 
 - Q24: Why does Bentham emphasize that one person can oversee many? What is he suggesting about the efficiency of this system?
+
+
+
+Becarria on Crimes & Punishment
+- Why do societies need punishment?
+- What problems exist with current penal practices?
+- Why shouldn't the state kill?
+- Why employ a punishment htat is more temporal than physical?
+- Where does his certainty about the preferrability of imprisonment come from?
+- What is his view of human nature?
+
+- Break -
+
+Bentham, "Panopticon Letters" 
+- Bentham explicitly says that the panopticon will work as a prison, school, hospital, a factory
