@@ -52,13 +52,19 @@ No readings this week.
 **Race & Repression during Reconstruction**
 
 **Readings:**
+Historical Background: 
 - Ida B. Wells, ["The Convict Lease System,"](https://www.historyisaweapon.com/defcon1/idabwellsconlea.html) (1893)
+- Douglas A. Blackmon, _Slavery by Another Name: The Re-Enslavement of Black Americans from the Civil War to World War II_ (2008), excerpts 
 
+Contemporary: 
 - Angela Davis, ["Racialized Punishment and Prison Abolition"](https://doubleoperative.com/wp-content/uploads/2010/09/racialized-punishment-and-prison-abolition.pdf) (1988)
 
-- Dennis Childs, "Angola Penitentiary: The Once and Future Slave Plantation" in _Slaves of the State_
+- Andrew Ross, Tommaso Bardelli, Aiyuba Thomas, "Introduction" in _Abolition Labor: The Fight to End Prison Slavery_ (2024)
+  
+- Free Alabama Movement, "Let the Crops Rot in the Field: A Call For New Strategy in The National
+Movement Against Mass Incarceration and Prison Slavery" (2017)
 
-**Topics:** The shift from sovereign power to disciplinary power; how Davis uses and critiques these ideas; the prison as technology of racial control
+- Ruth Wilson Gilmore and James Kilgore, ["Some Reflections on Prison Labor"](https://brooklynrail.org/2019/06/field-notes/Some-Reflections-on-Prison-Labor/) (2019)
 
 ---
 
@@ -66,11 +72,15 @@ No readings this week.
 **The Meaning of Emanicipation**
 **Readings:**
 
-- W.E.B. Du Bois, *Black Reconstruction in America* (1935):
-  - Chapter I: The Black Worker
-  - Chapter VII: The Meaning of Freedom
+- W.E.B. Du Bois, "Chapter VII: The Meaning of Freedom" in *Black Reconstruction in America* (1935)
+ 
+- Angela Davis, "Abolition Democracy" in *Abolition Democracy: Beyond Empires, Prison and Torture* (2000)
 
-- Angela Davis, "Abolition Democracy" in *Abolition Democracy: Beyond Empires, Prison and Torture*
+- Joy James, "Introduction: Democracy and Captivity" (2005)
+  
+- Dorothy Roberts, "Abolition Constitutionalism" (2019)
+  - "Introduction" pg. 3-11
+  - "Towards a New Abolition Constitutionalism" pg. 105-122 
 
 **Topics:** Reconstruction as emancipatory possibility; the theft of Black labor; how the carceral state replaced slavery as a mechanism of racial control
 
