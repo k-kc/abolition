@@ -59,10 +59,10 @@ Historical Background:
 Contemporary: 
 - Angela Davis, ["Racialized Punishment and Prison Abolition"](https://doubleoperative.com/wp-content/uploads/2010/09/racialized-punishment-and-prison-abolition.pdf) (1988)
 
-- Andrew Ross, Tommaso Bardelli, Aiyuba Thomas, "Introduction" in _Abolition Labor: The Fight to End Prison Slavery_ (2024)
+- Andrew Ross, Tommaso Bardelli, Aiyuba Thomas, ["Introduction"](assets/abolitionlabor-introduction.pdf) in _Abolition Labor: The Fight to End Prison Slavery_ (2024)
   
-- Free Alabama Movement, "Let the Crops Rot in the Field: A Call For New Strategy in The National
-Movement Against Mass Incarceration and Prison Slavery" (2017)
+- Free Alabama Movement, ["Let the Crops Rot in the Field: A Call For New Strategy in The National
+Movement Against Mass Incarceration and Prison Slavery"](assets/let-the-crops-rot-in-the-field.pdf) (2017)
 
 - Ruth Wilson Gilmore and James Kilgore, ["Some Reflections on Prison Labor"](https://brooklynrail.org/2019/06/field-notes/Some-Reflections-on-Prison-Labor/) (2019)
 
