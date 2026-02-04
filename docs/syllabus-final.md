@@ -54,7 +54,7 @@ No readings this week.
 **Readings:**
 Historical Background: 
 - Ida B. Wells, ["The Convict Lease System,"](https://www.historyisaweapon.com/defcon1/idabwellsconlea.html) (1893)
-- Douglas A. Blackmon, _Slavery by Another Name: The Re-Enslavement of Black Americans from the Civil War to World War II_ (2008), excerpts 
+- Douglas A. Blackmon,[ _Slavery by Another Name: The Re-Enslavement of Black Americans from the Civil War to World War II_](assets/blackmon-slavery-by-another-name.pdf) (2008), excerpts 
 
 Contemporary: 
 - Angela Davis, ["Racialized Punishment and Prison Abolition"](https://doubleoperative.com/wp-content/uploads/2010/09/racialized-punishment-and-prison-abolition.pdf) (1988)
