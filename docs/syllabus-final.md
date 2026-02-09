@@ -46,8 +46,6 @@ No readings this week.
 
 ---
 
-## UNIT 2: Contemporary Critics of the Prison & Police (Weeks 4-13)
-
 ### Week 4: Tuesday, February 10
 **Race & Repression during Reconstruction**
 
@@ -67,6 +65,7 @@ Movement Against Mass Incarceration and Prison Slavery"](assets/let-the-crops-ro
 - Ruth Wilson Gilmore and James Kilgore, ["Some Reflections on Prison Labor"](https://brooklynrail.org/2019/06/field-notes/Some-Reflections-on-Prison-Labor/) (2019)
 
 ---
+## UNIT 2: Contemporary Critics of the Prison & Police (Weeks 4-13)
 
 ### Week 5: Tuesday, February 17
 **The Meaning of Emanicipation**
