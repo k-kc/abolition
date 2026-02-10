@@ -35,7 +35,7 @@ No readings this week.
 
 **Readings:**
 
-- Beaumont and Tocqueville,["Chapter 2"](assets/beaumont-tocqueville-penitentiary.pdf) in _On the Penitentiary System in the United States and its Application to Frace_(1833)
+- Beaumont and Tocqueville, ["Chapter 2"](assets/beaumont-tocqueville-penitentiary.pdf) in _On the Penitentiary System in the United States and its Application to France_ (1833)
 
 - [Eastern State Penitentiary](https://www.youtube.com/watch?v=0ikUWU3cbq8) directed by Christine Bowditch (Forged Images Production Cooperative, 1998)
   - Please watch the first 30 minutes only. CW: Violence
@@ -50,73 +50,67 @@ No readings this week.
 **Race & Repression during Reconstruction**
 
 **Readings:**
-Historical Background: 
+
+**Historical Background:**
 - Ida B. Wells, ["The Convict Lease System,"](https://www.historyisaweapon.com/defcon1/idabwellsconlea.html) (1893)
-- Douglas A. Blackmon,[ _Slavery by Another Name: The Re-Enslavement of Black Americans from the Civil War to World War II_](assets/blackmon-slavery-by-another-name.pdf) (2008), excerpts 
+- Douglas A. Blackmon, [_Slavery by Another Name: The Re-Enslavement of Black Americans from the Civil War to World War II_](assets/blackmon-slavery-by-another-name.pdf) (2008), excerpts
 
-Contemporary: 
+**Contemporary:**
 - Angela Davis, ["Racialized Punishment and Prison Abolition"](https://doubleoperative.com/wp-content/uploads/2010/09/racialized-punishment-and-prison-abolition.pdf) (1988)
-
 - Andrew Ross, Tommaso Bardelli, Aiyuba Thomas, ["Introduction"](assets/abolitionlabor-introduction.pdf) in _Abolition Labor: The Fight to End Prison Slavery_ (2024)
-  
-- Free Alabama Movement, ["Let the Crops Rot in the Field: A Call For New Strategy in The National
-Movement Against Mass Incarceration and Prison Slavery"](assets/let-the-crops-rot-in-the-field.pdf) (2017)
-
+- Free Alabama Movement, ["Let the Crops Rot in the Field: A Call For New Strategy in The National Movement Against Mass Incarceration and Prison Slavery"](assets/let-the-crops-rot-in-the-field.pdf) (2017)
 - Ruth Wilson Gilmore and James Kilgore, ["Some Reflections on Prison Labor"](https://brooklynrail.org/2019/06/field-notes/Some-Reflections-on-Prison-Labor/) (2019)
 
 ---
-## UNIT 2: Contemporary Critics of the Prison & Police (Weeks 4-13)
+## UNIT 2: Contemporary Critics of the Prison & Police
 
 ### Week 5: Tuesday, February 17
-**The Meaning of Emanicipation**
-**Readings:**
+**Angela Davis and the Prison Rights Movement**
 
-- W.E.B. Du Bois, "Chapter VII: The Meaning of Freedom" in *Black Reconstruction in America* (1935)
- 
-- Angela Davis, "Abolition Democracy" in *Abolition Democracy: Beyond Empires, Prison and Torture* (2000)
+**Background Readings:**
+- Mariame Kaba, "Attica Prison Uprising 101: A Short Primer" (2011)
+- Dan Berger and Toussaint Losier, "Introduction" in _Rethinking the American Prison Movement_ (2018)
 
-- Joy James, "Introduction: Democracy and Captivity" (2005)
-  
-- Dorothy Roberts, "Abolition Constitutionalism" (2019)
-  - "Introduction" pg. 3-11
-  - "Towards a New Abolition Constitutionalism" pg. 105-122 
-
-**Topics:** Reconstruction as emancipatory possibility; the theft of Black labor; how the carceral state replaced slavery as a mechanism of racial control
+**Primary Sources:**
+- Angela Y. Davis, "Lectures on Liberation" (1967)
+- ---, "Political Prisoners, Prisons, and Black Liberation" (1971)
+- ---, "Lessons: From Attica to Soledad" (1971)
+- ---, "Statement to the Court" (1971)
+- ---, _Angela Davis: An Autobiography_ (1974), selections
+- Huey P. Newton, "Prison, Where Is Thy Victory?" 
 
 **ASSIGNMENT DUE: Topic Proposal (2-3 pages) — Friday, February 20 at 11:59 PM via email**
 
 ---
 
 ### Week 6: Tuesday, February 24
-**The Factory & The Prison**
+**Angela Davis Against Carceral Feminism**
 
-**Readings:**
-- Karl Marx, _The Marx-Engels Reader_edited by Robert C. Tucker
-  - "Wage Labor and Capital" (1847)
-  - "F. Population, Overpulation, and Malthus" (pg. 276-278)
+**Background Readings:**
+- Aya Gruber, _The Feminist War on Crime_
+- robin mc'duff, deanne pernell and karen saunders, "Open Letter to the Anti-Rape Movement" (1977)
+- Julia Sudbury, "Rethinking Antiviolence Strategies: Lessons from the Black Women's Movement in Britain"
 
-- Eugene V. Debs, *[Walls and Bars](https://archive.org/details/wallsbars00debs/page/n17/mode/2up)* (1927), selections:
-  - Chapter XI: Poverty Populates the Prison
-  - Chapter XII: Creating the Criminal
-  - Chapter XIV: Capitalism and Crime
+**Primary Sources:**
+- Angela Y. Davis, "Violence Against Women and the Ongoing Challenge to Racism" (1985)
+- ---, "Rape, Racism, and the Myth of the Black Rapist" (1981)
+- ---, "Reflections on Race, Class, and Gender in the USA" (1997)
+- Critical Resistance and INCITE!, "Gender Violence and the Prison-Industrial Complex" (1998)
+- _The Abolitionist_, [Vol. 2, Summer 2005](https://criticalresistance.org/abolitionist/issue-2-summer-2005/) (selections)
 
-- Ruth Wilson Gilmore, *[Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing California](https://cominsitu.wordpress.com/wp-content/uploads/2018/08/gilmore-ruth-wilson-golden-gulag-2007.pdf)* (2007):
-  - Chapter 2: The California Political Economy
-  - Chapter 3: The Prison Fix
-
-**Topics:** Primitive accumulation and surplus populations; discipline in the factory; how capitalism produces disposable people; the connection between industrial and carceral discipline
 
 ---
 
 ### Week 7: Tuesday, March 3
-**Race & The Carceral State**
+**Davis and the Meaning of Emancipation**
 
-**Readings:**
-- Stuart Hall, "Crime, Law, and the State" in *Policing the Crisis: Mugging, the State, and Law and Order*
+**Background Readings:**
+- W.E.B. Du Bois, "Chapter VII: The Meaning of Freedom" in _Black Reconstruction in America_ (1935)
+- Thomas Mathiesen, "The Unfinished Part" in _The Politics of Abolition_ (1978)
 
-- Ruth Wilson Gilmore, "Crime, Croplands, and Capitalism" in *[Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing California](https://cominsitu.wordpress.com/wp-content/uploads/2018/08/gilmore-ruth-wilson-golden-gulag-2007.pdf)* (2007)
-
-**Topics:** How race gets linked to crime and social disorder; the ideological work of carcerality; how neoliberal crisis gets solved through carceral expansion
+**Primary Sources:**
+- Angela Davis, "Abolition Democracy" in _Abolition Democracy: Beyond Empires, Prison and Torture_ (2000)
+- ---, _Are Prisons Obsolete?_ (2003)
 
 ---
 
@@ -126,83 +120,98 @@ Movement Against Mass Incarceration and Prison Slavery"](assets/let-the-crops-ro
 ---
 
 ### Week 9: Tuesday, March 17
-**Revolutionary Consciousness & Community Power**
+**Ruth Gilmore and the Racialized Disorder of Neoliberalism**
 
-**Readings:**
-- George Jackson, *Soledad Brother: The Prison Letters of George Jackson* (1970), selections:
-  - Autobiographical Letter
-  - Letters on revolutionary consciousness and transformation
-  - Letters to lawyer Fay Stender on prison conditions
+**Background Readings:**
+- Stuart Hall, _Policing the Crisis: Mugging, the State, and Law and Order_
+  - "Crime, Law, and the State"
+  - "The Great Moving Right Show"
+- Loic Wacquant, "Ordering Insecurity: Social Polarization and the Punitive Upsurge" (2008)
 
-- Mariame Kaba, *We Do This 'Til We Free Us* (2021), selections:
-  - Part 1: So You're Thinking About Becoming an Abolitionist
-  - "A People's History of Prisons in the United States"
-  - "Arresting the Carceral State"
-
-**Topics:** Community self-determination; revolutionary consciousness from inside prison; the practice of abolition; how communities build power together
+**Primary Sources:**
+- Ruth Wilson Gilmore, in _Abolition Geography_
+  - "Fatal Couplings of Power and Difference"
+  - "Race, Prisons, and War"
+  - "Restating the Obvious" 
 
 ---
 
-## UNIT 3: Prison's Obsolescence (Weeks 10-13)
-
 ### Week 10: Tuesday, March 24
-**Readings:**
-- Angela Davis, *Are Prisons Obsolete?* (2003) Chapters 1-3
+**Surplus and the Neoliberal Prison**
 
-- Thomas Mathiesen, "The Unfinished Part" in _The Politics of Abolition_ (1978)
-**Topics:** 
+**Background Readings:**
+- Karl Marx, _The Marx-Engels Reader_, edited by Robert C. Tucker
+  - "Wage Labor and Capital" (1847)
+  - "F. Population, Overpopulation, and Malthus" (pg. 276-278)
+- James Kilgore and Vic Liu, "The Big Picture," in _The Warehouse: A Visual Primer on Mass Incarceration_
+
+**Primary Readings:**
+- Ruth Wilson Gilmore, [_Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing California_](https://cominsitu.wordpress.com/wp-content/uploads/2018/08/gilmore-ruth-wilson-golden-gulag-2007.pdf) (2007):
+  - Prologue: The Bus
+  - Chapter 1: Introduction
+  - Chapter 3: The Prison Fix
+  - Chapter 4: Crime, Croplands, and Capitalism
+
+**Topics:** Primitive accumulation and surplus populations; discipline in the factory; how capitalism produces disposable people; the connection between industrial and carceral discipline
 
 **ASSIGNMENT DUE: Annotated Bibliography (8-12 sources) — Friday, March 27 at 11:59 PM via email**
 
 ---
 
 ### Week 11: Tuesday, March 31
-**Critical Resistance & Abolition**
+**Gilmore Organizing for Abolition**
 
-**Readings:**
-- Angela Davis, *Are Prisons Obsolete?* (2003) Chapters 4-6
-- *[The Abolitionist](https://criticalresistance.org/abolitionist/issue-2-summer-2005/)*, Vol. 2, Summer 2005 (selections)
-
-**Topics:** The prison industrial complex; what prisons actually do; abolition as vision and practice; historical functions of prisons
+- Ruth Wilson Gilmore, [_Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing California_](https://cominsitu.wordpress.com/wp-content/uploads/2018/08/gilmore-ruth-wilson-golden-gulag-2007.pdf) (2007)
+  - Chapter 5: "Mothers Reclaiming Our Children"
+  - Chapter 6: "What Is to Be Done?"
+- ---, "Abolition Geography and the Problem of Innocence"
 
 ---
 
 ### Week 12: Tuesday, April 7
-**Abolition Geography & Transformative Practice**
+**Transformative Justice & Collective Care**
 
-**Readings:**
-- Ruth Wilson Gilmore, *Golden Gulag* (2007), selections:
-  - "Mothers Reclaiming Our Children"
-  - "What Is to Be Done?"
+**Background Readings:**
+- Audre Lorde, _Sister Outsider_ (1984):
+  - "Uses of the Erotic: As Power"
+  - "The Master's Tools Will Never Dismantle the Master's House"
+- Octavia Butler, _Parable of the Sower_, selections
 
-- Ruth Wilson Gilmore, *Abolition Geography: Essays Towards Liberation* (2022):
-  - "Forgotten Places and the Seeds of Grassroots Planning"
-  - "Abolition Geography and the Problem of Innocence"
-
-**Topics:** Abolition as geographic practice; carceral geography beyond prisons; how abolition connects to environmental justice
-
+**Primary Sources:**
+- Mariame Kaba, _We Do This 'Til We Free Us_ (2021), selections:
+  - Part I: So You're Thinking About Becoming an Abolitionist
+  - Part II: There Are No Perfect Victims
+  - Part III: The State Can't Give Us Transformative Justice
+  - Part VI: Accountability is Not Punishment
+- Mariame Kaba, _Fragments: Notes On My Ordinary_ (2025)
+- _No Selves to Defend_, ed. Mariame Kaba 
 ---
 
 ### Week 13: Tuesday, April 14
-**Transformative Justice & Collective Care**
+**Abolition Feminism and Prefigurative Politics**
 
-**Readings:**
-- Audre Lorde, *Sister Outsider* (1984):
-  - "Uses of the Erotic: As Power"
-  - "The Master's Tools Will Never Dismantle the Master's House"
-
-- Mariame Kaba, *We Do This 'Til We Free Us* (2021), selections:
-  - Part VI: Accountability Is Not Punishment: Transforming How We Deal with Harm and Violence
-  - Part VII: Show Up and Don't Travel Alone: We Need Each Other
+**Background Readings:**
+- "Introduction" to _Abolition. Feminism. Now._ (2022)
+- Mariame Kaba, _We Do This 'Til We Free Us_ (2021), selections:
+  - Part IV: Making Demands: Reforms For and Against Abolition
+  - Part V: We Must Practice and Experiment
+  - Part VII: Show Up and Don't Travel Alone
 
 **Topics:** Transformative justice as practice; community accountability and healing; abolition feminism; how to build power among the most marginalized; hope as a discipline we practice
 
+### Week 14: Tuesday, April 21
+**Building Abolition Democracy**
+
+- Mariame Kaba and Andrea Ritchie, _No. More. Police._
+  - "No Soft Police"
+  - "How Do We Get There?"
+  - "Experiment and Build" 
+
+
 ---
 
-## UNIT 4: Contemporary Applications & Presentations (Weeks 14-15)
-
-### Week 14: Tuesday, April 21
-**Presentations & Contemporary Carceral Sites I**
+### Week 15: Tuesday, April 28
+**Student Presentations & Contemporary Carceral Sites**
 
 **Format:** Student presentations on research findings (10-15 minutes each + discussion)
 
@@ -211,14 +220,7 @@ Movement Against Mass Incarceration and Prison Slavery"](assets/let-the-crops-ro
 - Key findings from your annotated bibliography
 - Preliminary analysis using frameworks from Units 2-3
 
----
-
-### Week 15: Tuesday, April 28
-**Presentations & Contemporary Carceral Sites II**
-
-**Format:** Continued student presentations (10-15 minutes each + discussion)
-
-**FINAL PAPER DUE:** Friday, May 8 at 11:59 PM via email
+**ASSIGNMENT DUE: Final Paper — Friday, May 8 at 11:59 PM via email**
 
 ---
 
