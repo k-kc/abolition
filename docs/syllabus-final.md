@@ -68,16 +68,15 @@ No readings this week.
 **Angela Davis and the Prison Rights Movement**
 
 **Background Readings:**
-- Mariame Kaba, "Attica Prison Uprising 101: A Short Primer" (2011)
-- Dan Berger and Toussaint Losier, "Introduction" in _Rethinking the American Prison Movement_ (2018)
+- Mariame Kaba, ["Attica Prison Uprising 101: A Short Primer"](assets/kaba-attica-primer.pdf) (2011)
+- Dan Berger and Toussaint Losier, ["Introduction"](assets/rethinking-the-american-prison-movement.pdf) in _Rethinking the American Prison Movement_ (2018)
 
 **Primary Sources:**
-- Angela Y. Davis, "Lectures on Liberation" (1967)
-- ---, "Political Prisoners, Prisons, and Black Liberation" (1971)
-- ---, "Lessons: From Attica to Soledad" (1971)
-- ---, "Statement to the Court" (1971)
+- Angela Y. Davis, ["Lectures on Liberation" ](assets/davis-lectures-on-liberation-full.pdf)(1967)
+- ---, ["Part I: Political Prisoners, Prisons, and Black Liberation"](assets/davis-if-they-come-in-the-morning.pdf) in _If They Come In the Morning__ (1971)
+- ---, ["Statement to the Court"](assets/davis-statement-to-the-court.pdf) (1971)
 - ---, _Angela Davis: An Autobiography_ (1974), selections
-- Huey P. Newton, "Prison, Where Is Thy Victory?" 
+- Huey P. Newton, ["Prison, Where Is Thy Victory?"](assets/newton-prison-where-is-thy-victory.pdf) 
 
 **ASSIGNMENT DUE: Topic Proposal (2-3 pages) — Friday, February 20 at 11:59 PM via email**
 
