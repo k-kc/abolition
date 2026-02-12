@@ -73,7 +73,7 @@ No readings this week.
 
 **Primary Sources:**
 - Angela Y. Davis, ["Lectures on Liberation" ](assets/davis-lectures-on-liberation-full.pdf)(1967)
-- ---, ["Part I: Political Prisoners, Prisons, and Black Liberation"](assets/davis-if-they-come-in-the-morning.pdf) in _If They Come In the Morning__ (1971)
+- ---, ["Part I: Political Prisoners, Prisons, and Black Liberation"](assets/davis-if-they-come-in-the-morning.pdf) in _If They Come In the Morning_(1971)
 - ---, ["Statement to the Court"](assets/davis-statement-to-the-court.pdf) (1971)
 - ---, _Angela Davis: An Autobiography_ (1974), selections
 - Huey P. Newton, ["Prison, Where Is Thy Victory?"](assets/newton-prison-where-is-thy-victory.pdf) 
