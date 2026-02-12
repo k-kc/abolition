@@ -86,16 +86,15 @@ No readings this week.
 **Angela Davis Against Carceral Feminism**
 
 **Background Readings:**
-- Aya Gruber, _The Feminist War on Crime_
-- robin mc'duff, deanne pernell and karen saunders, "Open Letter to the Anti-Rape Movement" (1977)
-- Julia Sudbury, "Rethinking Antiviolence Strategies: Lessons from the Black Women's Movement in Britain"
+- Aya Gruber,[ _The Feminist War on Crime_](assets/gruber-arrest-is-best.pdf), selections
+- robin mc'duff, deanne pernell and karen saunders, ["Open Letter to the Anti-Rape Movement"](assets/letter-to-anti-rape-movement.pdf) (1977)
+- Julia Sudbury, ["Rethinking Antiviolence Strategies: Lessons from the Black Women's Movement in Britain"](assets/sudbury-lessons-from-the-british-anti-violence-movement.pdf)
 
 **Primary Sources:**
-- Angela Y. Davis, "Violence Against Women and the Ongoing Challenge to Racism" (1985)
-- ---, "Rape, Racism, and the Myth of the Black Rapist" (1981)
-- ---, "Reflections on Race, Class, and Gender in the USA" (1997)
-- Critical Resistance and INCITE!, "Gender Violence and the Prison-Industrial Complex" (1998)
-- _The Abolitionist_, [Vol. 2, Summer 2005](https://criticalresistance.org/abolitionist/issue-2-summer-2005/) (selections)
+- Angela Y. Davis, ["Violence Against Women and the Ongoing Challenge to Racism"](assets/davis-vaw-and-ongoing-challenge.pdf) (1985)
+- ---, ["Rape, Racism, and the Myth of the Black Rapist"](assets/davis-myth-of-the-black-rapist.pdf) (1981)
+- Critical Resistance and INCITE!, ["Gender Violence and the Prison-Industrial Complex"](assets/incite-cr-statement-on-gender-violence.pdf) (1998)
+- _The Abolitionist_, [Vol. 2, Summer 2005](https://criticalresistance.org/abolitionist/issue-2-summer-2005/) 
 
 
 ---
