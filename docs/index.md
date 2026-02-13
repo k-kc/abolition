@@ -15,12 +15,9 @@ Old Library 118
 
 ---
 
-## Announcements
+## Announcements 
 
-[Tues, Feb 3](syllabus-final.md) readings have been updated! 
-
-**[Required texts](required-texts.md) are now posted!**
-
+Submit your weekly discussion questions [here](discussion-questions.md)
 ---
 
 ## About This Course
