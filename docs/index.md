@@ -11,7 +11,7 @@ Tu 1:10PM - 4:00PM
 Old Library 118 
 **Professor:** Kierstan Kaushal-Carter  
 **Contact:** kkc@brynmawr.edu
-**Office Hours:** Thursdays 12-2
+**Office Hours:** Dalton 104, Thursdays 11:30-1:30
 
 ---
 
