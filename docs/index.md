@@ -18,7 +18,6 @@ Old Library 118
 ## Announcements 
 
 Submit your weekly discussion questions [here](discussion-questions.md)
----
 
 ## About This Course
 
