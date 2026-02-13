@@ -28,10 +28,10 @@ Compile sources on your chosen problem. For each: provide full citation, 150-200
 
 Analyze a contemporary carceral problem through at least 3 theoretical frameworks from the course. Ground analysis in concrete evidence. Develop an original argument. Imagine an abolitionist intervention.
 
-### Discussion Prep Sheets (Due weekly by 12:00 PM)
-**Format:** One-page completion-based | **Weight:** Part of 15% participation
+### Discussion Question (Due weekly by 12:00 PM)
+**Format:** Google Form | **Weight:** Part of 15% participation
 
-Submit weekly for weeks 5-13. Include: main argument, 2-3 key concepts, one confusing passage, connection to prior readings, one discussion question.
+Submit one discussion question based on the week's reading.
 
 ---
 ## Topic Bank: Possible Carceral Sites & Problems
