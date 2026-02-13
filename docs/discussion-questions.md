@@ -10,6 +10,8 @@ Use the form below to submit your weekly discussion question. Reference the spec
 
 {% include google-form.html %}
 
+---
+
 ## Class Discussion Questions
 
 Below you'll see discussion questions submitted by your classmates (anonymized). Take a look at what questions are emerging across the class and we'll use these as jumping-off points for our discussion.
