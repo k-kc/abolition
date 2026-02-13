@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Weekly Discussion Questions
+permalink: /discussion-questions/
 ---
 Use the form below to submit your weekly discussion question. Reference the specific text and passage you're engaging with, and pose a question that will spark meaningful discussion.
 
