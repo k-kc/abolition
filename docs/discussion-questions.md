@@ -11,4 +11,4 @@ Use the form below to submit your weekly discussion question. Reference the spec
 
 Below you'll see discussion questions submitted by your classmates (anonymized). Take a look at what questions are emerging across the class and we'll use these as jumping-off points for our discussion.
 
-{% include discussion-sheet.html %}
+{% include discussion-list.html %}
