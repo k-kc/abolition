@@ -3,7 +3,6 @@ layout: default
 title: Weekly Discussion Questions
 permalink: /discussion-questions/
 ---
-
 <style>
   .discussion-list,
   .form-container,
@@ -26,7 +25,6 @@ permalink: /discussion-questions/
     text-align: left;
   }
 </style>
-
 ## Weekly Discussion Questions
 Use the form below to submit your weekly discussion question. Reference the specific text and passage you're engaging with, and pose a question that will spark meaningful discussion.
 
