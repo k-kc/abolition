@@ -76,7 +76,9 @@ No readings this week.
 - ---, ["Part I: Political Prisoners, Prisons, and Black Liberation"](assets/davis-if-they-come-in-the-morning.pdf) in _If They Come In the Morning_(1971)
 - ---, ["Statement to the Court"](assets/davis-statement-to-the-court.pdf) (1971)
 - ---, [_Angela Davis: An Autobiography_](assets/davis-autobiography-selections.pdf) (1974), selections
-- Huey P. Newton, ["Prison, Where Is Thy Victory?"](assets/newton-prison-where-is-thy-victory.pdf) 
+- Huey P. Newton, ["Prison, Where Is Thy Victory?"](assets/newton-prison-where-is-thy-victory.pdf)
+
+[proposal step 2 slides](assets/project-proposal-step-2.pdf)
 
 **ASSIGNMENT DUE: Topic Proposal (2-3 pages) — Friday, February 20 at 11:59 PM via email**
 
