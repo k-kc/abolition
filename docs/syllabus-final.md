@@ -105,7 +105,7 @@ No readings this week.
 **Davis and the Meaning of Emancipation**
 
 **Background Readings:**
-- W.E.B. Du Bois, "Chapter VII: The Meaning of Freedom" in _Black Reconstruction in America_ (1935)
+- W.E.B. Du Bois, "Chapter VII: Looking Forward" in _Black Reconstruction in America_ (1935)
 - Thomas Mathiesen, "The Unfinished Part" in _The Politics of Abolition_ (1978)
 
 **Primary Sources:**
