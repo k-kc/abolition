@@ -112,6 +112,7 @@ No readings this week.
 - ---, _Are Prisons Obsolete?_ (2003)
 
 Submit your weekly discussion questions [here](discussion-questions.md)
+
 ---
 
 ### Week 8: Tuesday, March 10
@@ -167,6 +168,7 @@ Submit your weekly discussion questions [here](discussion-questions.md)
   - Chapter 5: "Mothers Reclaiming Our Children"
   - Chapter 6: "What Is to Be Done?"
 - ---, "Abolition Geography and the Problem of Innocence"
+
 Submit your weekly discussion questions [here](discussion-questions.md)
 
 ---
@@ -198,6 +200,8 @@ Submit your weekly discussion questions [here](discussion-questions.md)
 
 **Background Readings:**
 - "Introduction" to _Abolition. Feminism. Now._ (2022)
+
+**Primary Sources:**
 - Mariame Kaba, _We Do This 'Til We Free Us_ (2021), selections:
   - Part IV: Making Demands: Reforms For and Against Abolition
   - Part V: We Must Practice and Experiment
