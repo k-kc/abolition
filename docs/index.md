@@ -19,6 +19,8 @@ Old Library 118
 
 Submit your weekly discussion questions [here](discussion-questions.md)
 
+Midsemester evaluation is now open [here](https://forms.gle/KMKC9c41jZEDsdoq8)! 
+
 ## About This Course
 
 This seminar traces the genealogy of prison abolition from the philosophical origins of the modern prison through contemporary movements to dismantle carceral systems. We examine how the prison emerged as a reform solution to social problems, then turn to three major abolition thinkers—Angela Davis, Ruth Wilson Gilmore, and Mariame Kaba—and the intellectual traditions that inform their work. Through close reading and discussion, students learn to apply abolition frameworks to analyze contemporary carceral systems and imagine alternatives to incarceration.
