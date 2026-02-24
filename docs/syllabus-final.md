@@ -92,7 +92,6 @@ No readings this week.
 - robin mc'duff, deanne pernell and karen saunders, ["Open Letter to the Anti-Rape Movement"](assets/letter-to-anti-rape-movement.pdf) (1977)
 - Julia Sudbury, ["Rethinking Antiviolence Strategies: Lessons from the Black Women's Movement in Britain"](assets/sudbury-lessons-from-the-british-anti-violence-movement.pdf)
 
-
 **Primary Sources:**
 - Angela Y. Davis, ["Violence Against Women and the Ongoing Challenge to Racism"](assets/davis-vaw-and-ongoing-challenge.pdf) (1985)
 - ---, ["Rape, Racism, and the Myth of the Black Rapist"](assets/davis-myth-of-the-black-rapist.pdf) (1981)
