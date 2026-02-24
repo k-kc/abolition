@@ -106,7 +106,7 @@ No readings this week.
 
 **Background Readings:**
 - W.E.B. Du Bois, "Chapter VII: Looking Forward" in _Black Reconstruction in America_ (1935)
-- Thomas Mathiesen, "The Unfinished Part" in _The Politics of Abolition_ (1978)
+- Bernard Harcourt, ["Abolition Democracy as a Philosophy of History"](https://blogs.law.columbia.edu/abolition1313/bernard-e-harcourt-abolition-democracy-as-a-philosophy-of-history/) (2020)
 
 **Primary Sources:**
 - Angela Davis, "Abolition Democracy" in _Abolition Democracy: Beyond Empires, Prison and Torture_ (2000)
