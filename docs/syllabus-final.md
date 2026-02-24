@@ -105,11 +105,11 @@ No readings this week.
 **Davis and the Meaning of Emancipation**
 
 **Background Readings:**
-- W.E.B. Du Bois, "Chapter VII: Looking Forward" in _Black Reconstruction in America_ (1935)
+- W.E.B. Du Bois, ["Chapter VII: Looking Forward"](assets/dubois-black-reconstruction-looking-forward.pdf) in _Black Reconstruction in America_ (1935)
 - Bernard Harcourt, ["Abolition Democracy as a Philosophy of History"](https://blogs.law.columbia.edu/abolition1313/bernard-e-harcourt-abolition-democracy-as-a-philosophy-of-history/) (2020)
 
 **Primary Sources:**
-- Angela Davis, "Abolition Democracy" in _Abolition Democracy: Beyond Empires, Prison and Torture_ (2000)
+- Angela Davis, ["Abolition Democracy"](assets/davis-abolition-democracy.pdf) in _Abolition Democracy: Beyond Empires, Prison and Torture_ (2000)
 - ---, _Are Prisons Obsolete?_ (2003)
 
 ---
