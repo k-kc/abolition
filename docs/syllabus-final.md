@@ -111,6 +111,7 @@ No readings this week.
 - Angela Davis, ["Abolition Democracy"](assets/davis-abolition-democracy.pdf) in _Abolition Democracy: Beyond Empires, Prison and Torture_ (2000)
 - ---, _Are Prisons Obsolete?_ (2003)
 
+Submit your weekly discussion questions [here](discussion-questions.md)
 ---
 
 ### Week 8: Tuesday, March 10
@@ -133,6 +134,8 @@ No readings this week.
   - "Race, Prisons, and War"
   - "Restating the Obvious" 
 
+Submit your weekly discussion questions [here](discussion-questions.md)
+
 ---
 
 ### Week 10: Tuesday, March 24
@@ -151,6 +154,8 @@ No readings this week.
   - Chapter 3: The Prison Fix
   - Chapter 4: Crime, Croplands, and Capitalism
 
+Submit your weekly discussion questions [here](discussion-questions.md)
+
 **ASSIGNMENT DUE: Annotated Bibliography (8-12 sources) — Friday, March 27 at 11:59 PM via email**
 
 ---
@@ -162,6 +167,7 @@ No readings this week.
   - Chapter 5: "Mothers Reclaiming Our Children"
   - Chapter 6: "What Is to Be Done?"
 - ---, "Abolition Geography and the Problem of Innocence"
+Submit your weekly discussion questions [here](discussion-questions.md)
 
 ---
 
@@ -183,6 +189,8 @@ No readings this week.
 - Mariame Kaba, _Fragments: Notes On My Ordinary_ (2025)
 - _No Selves to Defend_, ed. Mariame Kaba 
 
+Submit your weekly discussion questions [here](discussion-questions.md)
+
 ---
 
 ### Week 13: Tuesday, April 14
@@ -195,7 +203,7 @@ No readings this week.
   - Part V: We Must Practice and Experiment
   - Part VII: Show Up and Don't Travel Alone
 
-**Topics:** Transformative justice as practice; community accountability and healing; abolition feminism; how to build power among the most marginalized; hope as a discipline we practice
+Submit your weekly discussion questions [here](discussion-questions.md)
 
 ### Week 14: Tuesday, April 21
 **Building Abolition Democracy**
@@ -205,6 +213,7 @@ No readings this week.
   - "How Do We Get There?"
   - "Experiment and Build" 
 
+Submit your weekly discussion questions [here](discussion-questions.md)
 
 ---
 
