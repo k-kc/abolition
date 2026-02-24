@@ -151,8 +151,6 @@ No readings this week.
   - Chapter 3: The Prison Fix
   - Chapter 4: Crime, Croplands, and Capitalism
 
-**Topics:** Primitive accumulation and surplus populations; discipline in the factory; how capitalism produces disposable people; the connection between industrial and carceral discipline
-
 **ASSIGNMENT DUE: Annotated Bibliography (8-12 sources) — Friday, March 27 at 11:59 PM via email**
 
 ---
@@ -184,6 +182,7 @@ No readings this week.
   - Part VI: Accountability is Not Punishment
 - Mariame Kaba, _Fragments: Notes On My Ordinary_ (2025)
 - _No Selves to Defend_, ed. Mariame Kaba 
+
 ---
 
 ### Week 13: Tuesday, April 14
@@ -220,8 +219,6 @@ No readings this week.
 - Preliminary analysis using frameworks from Units 2-3
 
 **ASSIGNMENT DUE: Final Paper — Friday, May 8 at 11:59 PM via email**
-
-test
 ---
 
 ## Important Dates
