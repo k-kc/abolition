@@ -4,7 +4,7 @@
 
 Professor: Kierstan Kaushal-Carter  
 Contact: kkc@brynmawr.edu  
-Office Hours via Zoom: Tuesdays 2-3 PM
+Office Hours (Dalton 104): Thursdays 11:30-1:30PM
 
 This course traces the political thought and practice of abolition from eighteenth-century critiques of punishment to contemporary struggles against mass incarceration and policing. We will study foundational thinkers such as Beccaria, Bentham, Douglass, Jacobs, and Wells alongside twentieth- and twenty-first-century voices including Angela Davis, Ruth Wilson Gilmore, and Mariame Kaba. Students will engage with canonical thinkers, understand abolition as emerging from concrete struggles, and develop sophisticated analytical skills through scaffolded writing assignments.
 
