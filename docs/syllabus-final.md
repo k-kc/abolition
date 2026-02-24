@@ -155,6 +155,7 @@ Submit your weekly discussion questions [here](discussion-questions.md)
   - Chapter 3: The Prison Fix
   - Chapter 4: Crime, Croplands, and Capitalism
 
+
 Submit your weekly discussion questions [here](discussion-questions.md)
 
 **ASSIGNMENT DUE: Annotated Bibliography (8-12 sources) — Friday, March 27 at 11:59 PM via email**
