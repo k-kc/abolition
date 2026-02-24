@@ -17,8 +17,6 @@ Old Library 118
 
 ## Announcements 
 
-Submit your weekly discussion questions [here](discussion-questions.md)
-
 Midsemester evaluation is now open [here](https://forms.gle/KMKC9c41jZEDsdoq8)! 
 
 ## About This Course
