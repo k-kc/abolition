@@ -98,7 +98,6 @@ No readings this week.
 - Critical Resistance and INCITE!, ["Gender Violence and the Prison-Industrial Complex"](assets/incite-cr-statement-on-gender-violence.pdf) (1998)
 - _The Abolitionist_, [Vol. 2, Summer 2005](https://criticalresistance.org/abolitionist/issue-2-summer-2005/) 
 
-
 ---
 
 ### Week 7: Tuesday, March 3
