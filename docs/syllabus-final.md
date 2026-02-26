@@ -91,6 +91,7 @@ No readings this week.
 - Aya Gruber,[ _The Feminist War on Crime_](assets/gruber-arrest-is-best.pdf), selections
 - robin mc'duff, deanne pernell and karen saunders, ["Open Letter to the Anti-Rape Movement"](assets/letter-to-anti-rape-movement.pdf) (1977)
 - Julia Sudbury, ["Rethinking Antiviolence Strategies: Lessons from the Black Women's Movement in Britain"](assets/sudbury-lessons-from-the-british-anti-violence-movement.pdf)
+  - Gayatri Spivak, ["Can the Subaltern Speak?"](assets/spivak-can-the-subaltern-speak.pdf)
 
 **Primary Sources:**
 - Angela Y. Davis, ["Violence Against Women and the Ongoing Challenge to Racism"](assets/davis-vaw-and-ongoing-challenge.pdf) (1985)
