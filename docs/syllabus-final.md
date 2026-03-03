@@ -111,7 +111,10 @@ No readings this week.
 **Primary Sources:**
 - Angela Davis, ["Abolition Democracy"](assets/davis-abolition-democracy.pdf) in _Abolition Democracy: Beyond Empires, Prison and Torture_ (2000)
 - ---, _Are Prisons Obsolete?_ (2003)
+
 Submit your weekly discussion questions [here](discussion-questions.md)
+
+[Research Project Step 3](assets/research-step-3.pdf)
 
 ---
 ### Week 8: Tuesday, March 10
