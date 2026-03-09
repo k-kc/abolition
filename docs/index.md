@@ -17,7 +17,7 @@ Old Library 118
 
 ## Announcements 
 
-Midsemester evaluation is now open [here](https://forms.gle/KMKC9c41jZEDsdoq8)! 
+Tuesday, March 17th readings have been updated! 
 
 ## About This Course
 
