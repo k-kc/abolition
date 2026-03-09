@@ -125,7 +125,7 @@ Submit your weekly discussion questions [here](discussion-questions.md)
 **Ruth Gilmore and the Racialized Disorder of Neoliberalism**
 
 **Background Readings:**
-- Loic Wacquant, "Ordering Insecurity: Social Polarization and the Punitive Upsurge" (2008)
+- Loic Wacquant, ["Ordering Insecurity: Social Polarization and the Punitive Upsurge"](wacquant-ordering-insecurity.pdf) (2008)
 
 **Primary Sources:**
 - ["Ruth Wilson Gilmore Makes the Case for Abolition, Part 1 & 2"](https://theintercept.com/2020/06/10/ruth-wilson-gilmore-makes-the-case-for-abolition/) _The Intercept Briefing_ (2020)
