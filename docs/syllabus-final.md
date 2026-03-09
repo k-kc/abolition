@@ -128,8 +128,10 @@ Submit your weekly discussion questions [here](discussion-questions.md)
 - Loic Wacquant, ["Ordering Insecurity: Social Polarization and the Punitive Upsurge"](assets/wacquant-ordering-insecurity.pdf)(2008)
 
 **Primary Sources:**
-- ["Ruth Wilson Gilmore Makes the Case for Abolition, Part 1 & 2"](https://theintercept.com/2020/06/10/ruth-wilson-gilmore-makes-the-case-for-abolition/) _The Intercept Briefing_ (2020)
-  - Printable Version [Here](assets/gilmore-case-for-abolition.pdf)
+- ["Ruth Wilson Gilmore Makes the Case for Abolition"] _The Intercept Briefing_ (2020)
+  - ["Part 1"](https://theintercept.com/2020/06/10/ruth-wilson-gilmore-makes-the-case-for-abolition/) 
+  - ["Part 2"](https://www.podbean.com/media/share/dir-7ps5d-9468bff)
+  - Printable Transcript [Here](assets/gilmore-case-for-abolition.pdf)
 
 Submit your weekly discussion questions [here](discussion-questions.md)
 
