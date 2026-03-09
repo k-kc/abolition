@@ -125,16 +125,10 @@ Submit your weekly discussion questions [here](discussion-questions.md)
 **Ruth Gilmore and the Racialized Disorder of Neoliberalism**
 
 **Background Readings:**
-- Stuart Hall, _Policing the Crisis: Mugging, the State, and Law and Order_
-  - "Crime, Law, and the State"
-  - "The Great Moving Right Show"
 - Loic Wacquant, "Ordering Insecurity: Social Polarization and the Punitive Upsurge" (2008)
 
 **Primary Sources:**
-- Ruth Wilson Gilmore, in _Abolition Geography_
-  - "Fatal Couplings of Power and Difference"
-  - "Race, Prisons, and War"
-  - "Restating the Obvious" 
+- ["Ruth Wilson Gilmore Makes the Case for Abolition, Part 1 & 2"](https://theintercept.com/2020/06/10/ruth-wilson-gilmore-makes-the-case-for-abolition/) _The Intercept Briefing_ (2020)
 
 Submit your weekly discussion questions [here](discussion-questions.md)
 
