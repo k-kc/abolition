@@ -144,10 +144,9 @@ Submit your weekly discussion questions [here](discussion-questions.md)
 - ["Geographies of Racial Capitalism,"](https://www.youtube.com/watch?v=2CS627aKrJI) _Antipode_ (2020)
 
 **Primary Readings:**
-- Ruth Wilson Gilmore, _Abolition Geography_ (2022)
-  - ["Race & Globalization"](assets/gilmore-race-and-globalization.pdf)
-  - ["Fatal Couplings of Power and Difference"](assets/gilmore-fatal-couplings.pdf)
-  - ["Race, Prisons, War"](assets/gilmore-race-prisons-war.pdf)
+- Ruth Wilson Gilmore,["Fatal Couplings of Power and Difference"](assets/gilmore-fatal-couplings.pdf) in _Abolition Geography_ (2022)
+---, "Chapter 2. The California Political Economy" in [_Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing California_](https://cominsitu.wordpress.com/wp-content/uploads/2018/08/gilmore-ruth-wilson-golden-gulag-2007.pdf) (2007)
+---, "Chapter 3. The Prison Fix" in _Golden Gulag_ (2007)
 
 Submit your weekly discussion questions [here](discussion-questions.md)
 
@@ -161,7 +160,7 @@ Submit your weekly discussion questions [here](discussion-questions.md)
 - Ruth Wilson Gilmore, [_Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing California_](https://cominsitu.wordpress.com/wp-content/uploads/2018/08/gilmore-ruth-wilson-golden-gulag-2007.pdf) (2007)
   - Chapter 5: "Mothers Reclaiming Our Children"
   - Chapter 6: "What Is to Be Done?"
-- ---, "Abolition Geography and the Problem of Innocence"
+- ---, "Abolition Geography and the Problem of Innocence" in _Abolition Geography_ (2022)
 
 Submit your weekly discussion questions [here](discussion-questions.md)
 
