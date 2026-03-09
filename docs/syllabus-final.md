@@ -122,7 +122,7 @@ Submit your weekly discussion questions [here](discussion-questions.md)
 ---
 
 ### Week 9: Tuesday, March 17
-**Ruth Gilmore and the Racialized Disorder of Neoliberalism**
+**Ruth Gilmore Makes the Case for Abolition**
 
 **Background Readings:**
 - Loic Wacquant, ["Ordering Insecurity: Social Polarization and the Punitive Upsurge"](wacquant-ordering-insecurity.pdf) (2008)
@@ -135,21 +135,16 @@ Submit your weekly discussion questions [here](discussion-questions.md)
 ---
 
 ### Week 10: Tuesday, March 24
-**Surplus and the Neoliberal Prison**
+**Geography as a Method**
 
 **Background Readings:**
-- Karl Marx, _The Marx-Engels Reader_, edited by Robert C. Tucker
-  - "Wage Labor and Capital" (1847)
-  - "F. Population, Overpopulation, and Malthus" (pg. 276-278)
-- James Kilgore and Vic Liu, "The Big Picture," in _The Warehouse: A Visual Primer on Mass Incarceration_
+- ["Geographies of Racial Capitalism,"](https://www.youtube.com/watch?v=2CS627aKrJI) _Antipode_ (2020)
 
 **Primary Readings:**
-- Ruth Wilson Gilmore, [_Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing California_](https://cominsitu.wordpress.com/wp-content/uploads/2018/08/gilmore-ruth-wilson-golden-gulag-2007.pdf) (2007):
-  - Prologue: The Bus
-  - Chapter 1: Introduction
-  - Chapter 3: The Prison Fix
-  - Chapter 4: Crime, Croplands, and Capitalism
-
+- Ruth Wilson Gilmore, _Abolition Geography_ (2022)
+  - "Race & Globalization"
+  - "Fatal Couplings of Power and Difference"
+  - "Race, Prisons, War"
 
 Submit your weekly discussion questions [here](discussion-questions.md)
 
