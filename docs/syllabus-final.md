@@ -142,9 +142,9 @@ Submit your weekly discussion questions [here](discussion-questions.md)
 
 **Primary Readings:**
 - Ruth Wilson Gilmore, _Abolition Geography_ (2022)
-  - "Race & Globalization"
-  - "Fatal Couplings of Power and Difference"
-  - "Race, Prisons, War"
+  - ["Race & Globalization"](assets/gilmore-race-and-globalization.pdf)
+  - ["Fatal Couplings of Power and Difference"](assets/gilmore-fatal-couplings.pdf)
+  - ["Race, Prisons, War"](assets/gilmore-race-prisons-war.pdf)
 
 Submit your weekly discussion questions [here](discussion-questions.md)
 
