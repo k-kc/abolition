@@ -122,15 +122,15 @@ Submit your weekly discussion questions [here](discussion-questions.md)
 ---
 
 ### Week 9: Tuesday, March 17
-**Ruth Gilmore Makes the Case for Abolition**
+**Ruth Gilmore and the Campaign to Change Everything**
 
 **Background Readings:**
 - Loic Wacquant, ["Ordering Insecurity: Social Polarization and the Punitive Upsurge"](assets/wacquant-ordering-insecurity.pdf)(2008)
 
 **Primary Sources:**
-- ["Ruth Wilson Gilmore Makes the Case for Abolition"] _The Intercept Briefing_ (2020)
-  - ["Part 1"](https://theintercept.com/2020/06/10/ruth-wilson-gilmore-makes-the-case-for-abolition/) 
-  - ["Part 2"](https://www.podbean.com/media/share/dir-7ps5d-9468bff)
+- "Ruth Wilson Gilmore Makes the Case for Abolition" [_The Intercept Briefing_](https://theintercept.com/2020/06/10/ruth-wilson-gilmore-makes-the-case-for-abolition/) (2020)
+  - ["Part 1"](https://shows.acast.com/f5b64019-68c3-57d4-b70b-043e63e5cbf6/e4044f8a-d6df-497f-9114-e06160ad36d7)
+  - ["Part 2"](https://shows.acast.com/f5b64019-68c3-57d4-b70b-043e63e5cbf6/77639b7e-c309-49d5-945b-b88227d1a889)
   - Printable Transcript [Here](assets/gilmore-case-for-abolition.pdf)
 
 Submit your weekly discussion questions [here](discussion-questions.md)
@@ -145,10 +145,8 @@ Submit your weekly discussion questions [here](discussion-questions.md)
 
 **Primary Readings:**
 - Ruth Wilson Gilmore,["Fatal Couplings of Power and Difference"](assets/gilmore-fatal-couplings.pdf) in _Abolition Geography_ (2022)
-  
----, "Chapter 2. The California Political Economy" in [_Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing California_](https://cominsitu.wordpress.com/wp-content/uploads/2018/08/gilmore-ruth-wilson-golden-gulag-2007.pdf) (2007)
-
----, "Chapter 3. The Prison Fix" in _Golden Gulag_ (2007)
+- ---, "Chapter 2. The California Political Economy" in [_Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing California_](https://cominsitu.wordpress.com/wp-content/uploads/2018/08/gilmore-ruth-wilson-golden-gulag-2007.pdf) (2007)
+- ---, "Chapter 3. The Prison Fix" in _Golden Gulag_ (2007)
 
 Submit your weekly discussion questions [here](discussion-questions.md)
 
