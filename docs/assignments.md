@@ -57,6 +57,7 @@ Students may choose from this list or propose their own (with instructor approva
 Step 2 - [Idea Drafting](assets/project-proposal-step-2.pdf)
 
 Step 3 - [Finding Sources](assets/research-step-3.pdf)
+- Wendy Belcher ["Four Types of Secondary Research"](assets/belcher-secondary-literature.pdf)
 
 Step 4 - [Annotating Bibliographic Sources](assets/step-4-annoted-bibliography.pdf)
 
