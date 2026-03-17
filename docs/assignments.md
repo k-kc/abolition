@@ -21,7 +21,7 @@ Identify a specific carceral site, system, or problem you want to analyze. Expla
 ### Annotated Bibliography (Due Friday, March 27)
 **Length:** 8-12 sources with annotations | **Weight:** Part of 30% scaffolded assignments
 
-Compile sources on your chosen problem. For each: provide full citation, 150-200 word annotation (main argument, key evidence, relevance, gaps), and a final synthesis paragraph identifying themes and your intervention.
+Compile sources on your chosen problem. For each: provide full citation,a 3 sentence long annotation that covers the main argument, key evidence, and its relevance to your intervention.
 
 ### Final Paper (Due Friday, May 8)
 **Length:** 15-20 pages | **Weight:** 40%
