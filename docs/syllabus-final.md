@@ -147,7 +147,6 @@ Submit your weekly discussion questions [here](discussion-questions.md)
 - Ruth Wilson Gilmore,["Fatal Couplings of Power and Difference"](assets/gilmore-fatal-couplings.pdf) in _Abolition Geography_ (2022)
 - ---, "Prologue: The Bus" in [_Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing California_](https://cominsitu.wordpress.com/wp-content/uploads/2018/08/gilmore-ruth-wilson-golden-gulag-2007.pdf) (2007)
 - ---, "Chapter 1. Introduction" in _Golden Gulag_ (2007)
-- ---, "Chapter 3. The Prison Fix" in _Golden Gulag_ (2007)
 
 Submit your weekly discussion questions [here](discussion-questions.md)
 
