@@ -17,7 +17,7 @@ Old Library 118
 
 ## Announcements 
 
-No class today (3/24). Please complete [the asynchornous assignment, "Why Prisons?" instead](assets/why-prisons-asycnh-assignment.pdf)! 
+No class today (3/24). Please complete [the asynchornous assignment, "Why Prisons?" instead](assets/why-prisons-asynch-assignment.pdf)! 
 
 ## About This Course
 
