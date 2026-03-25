@@ -186,8 +186,9 @@ Submit your weekly discussion questions [here](discussion-questions.md)
 **Abolition Feminism and Prefigurative Politics**
 
 **Background Readings:**
-- "Introduction" to _Abolition. Feminism. Now._ (2022)
-
+- Audre Lorde, _Sister Outsider_ (1984):
+  - "Uses of the Erotic"
+    
 **Primary Sources:**
 - Mariame Kaba, _We Do This 'Til We Free Us_ (2021), selections:
   - Part IV: Making Demands: Reforms For and Against Abolition
