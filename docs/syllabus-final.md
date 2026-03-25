@@ -169,9 +169,7 @@ Submit your weekly discussion questions [here](discussion-questions.md)
 
 **Background Readings:**
 - Audre Lorde, _Sister Outsider_ (1984):
-  - "Uses of the Erotic: As Power"
   - "The Master's Tools Will Never Dismantle the Master's House"
-- Octavia Butler, _Parable of the Sower_, selections
 
 **Primary Sources:**
 - Mariame Kaba, _We Do This 'Til We Free Us_ (2021), selections:
@@ -179,8 +177,6 @@ Submit your weekly discussion questions [here](discussion-questions.md)
   - Part II: There Are No Perfect Victims
   - Part III: The State Can't Give Us Transformative Justice
   - Part VI: Accountability is Not Punishment
-- Mariame Kaba, _Fragments: Notes On My Ordinary_ (2025)
-- _No Selves to Defend_, ed. Mariame Kaba 
 
 Submit your weekly discussion questions [here](discussion-questions.md)
 
