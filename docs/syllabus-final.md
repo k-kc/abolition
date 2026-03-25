@@ -157,7 +157,6 @@ Submit your weekly discussion questions [here](discussion-questions.md)
 **Gilmore Organizing for Abolition**
 
 - Ruth Wilson Gilmore, [_Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing California_](https://cominsitu.wordpress.com/wp-content/uploads/2018/08/gilmore-ruth-wilson-golden-gulag-2007.pdf) (2007)
-  - Chapter 5: "Mothers Reclaiming Our Children"
   - Chapter 6: "What Is to Be Done?"
 - ---, "Abolition Geography and the Problem of Innocence" in _Abolition Geography_ (2022)
 
