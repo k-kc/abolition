@@ -171,7 +171,6 @@ Submit your weekly discussion questions [here](discussion-questions.md)
 - Mariame Kaba, _We Do This 'Til We Free Us_ (2021), selections:
   - Part I: So You're Thinking About Becoming an Abolitionist
   - Part II: There Are No Perfect Victims
-  - Part III: The State Can't Give Us Transformative Justice
   - Part VI: Accountability is Not Punishment
 
 Submit your weekly discussion questions [here](discussion-questions.md)
@@ -183,6 +182,7 @@ Submit your weekly discussion questions [here](discussion-questions.md)
     
 **Primary Sources:**
 - Mariame Kaba, _We Do This 'Til We Free Us_ (2021), selections:
+  - Part III: The State Can't Give Us Transformative Justice
   - Part IV: Making Demands: Reforms For and Against Abolition
   - Part V: We Must Practice and Experiment
   - Part VII: Show Up and Don't Travel Alone
