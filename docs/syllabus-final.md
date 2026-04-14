@@ -186,6 +186,8 @@ Submit your weekly discussion questions [here](discussion-questions.md)
   - Part IV: Making Demands: Reforms For and Against Abolition
   - Part V: We Must Practice and Experiment
   - Part VII: Show Up and Don't Travel Alone
+ 
+[Slides](assets/kaba-slides-final.pdf)
 
 Submit your weekly discussion questions [here](discussion-questions.md)
 
