@@ -17,7 +17,7 @@ Old Library 118
 
 ## Announcements 
 
-Check back later for more updates
+April 21st readings have been updated!
 
 ## About This Course
 
