@@ -190,14 +190,11 @@ Submit your weekly discussion questions [here](discussion-questions.md)
 Submit your weekly discussion questions [here](discussion-questions.md)
 
 ### Week 14: Tuesday, April 21
-**Building Abolition Democracy**
+**Abolition and Its Critics**
+- Tommie Shelby, ["The Uses and Abuses of Incarceration"](assets/shelby-uses-and-abuses-of-incarceration.pdf) from _The Idea of Prison Abolition_ (2022)
+- Jake Monaghan, ["The Question of Just Policing"](assets/monaghan-just-policing.pdf) from _Just Policing_ (2023)
+- Daniel Fryer, ["Idealizing Abolition"](assets/fryer-idealizing-abolition.pdf) in _Criminal Law and Philosphy_ (2023)
 
-- Mariame Kaba and Andrea Ritchie, _No. More. Police._
-  - "No Soft Police"
-  - "How Do We Get There?"
-  - "Experiment and Build" 
-
-Submit your weekly discussion questions [here](discussion-questions.md)
 
 ---
 
