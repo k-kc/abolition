@@ -6,9 +6,9 @@ title: "Assignments & Grading"
 
 | Component | Weight |
 |-----------|--------|
-| Final Paper (15-20 pages) | 40% |
+| Final Paper (12-15 pages) | 40% |
 | Scaffolded Assignments (Topic Proposal + Annotated Bibliography) | 30% |
-| Presentations (Weeks 14-15) | 15% |
+| Presentations (Weeks 15) | 15% |
 | Participation & Discussion Prep | 15% |
 
 ## Assignment Details
@@ -23,10 +23,10 @@ Identify a specific carceral site, system, or problem you want to analyze. Expla
 
 Compile sources on your chosen problem. For each: provide full citation,a 3 sentence long annotation that covers the main argument, key evidence, and its relevance to your intervention.
 
-### Final Paper (Due Friday, May 8)
-**Length:** 15-20 pages | **Weight:** 40%
+### Research Paper (Due Friday, May 8 by 11:59PM)
+**Length:** 12-15 pages | **Weight:** 40%
 
-Analyze a contemporary carceral problem through at least 3 theoretical frameworks from the course. Ground analysis in concrete evidence. Develop an original argument. Imagine an abolitionist intervention.
+Produce an original, thesis-driven argument or analysis about a topic broadly related to abolition. 
 
 ### Discussion Question (Due weekly by 12:00 PM)
 **Format:** Google Form | **Weight:** Part of 15% participation
