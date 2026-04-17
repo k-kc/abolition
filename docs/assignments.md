@@ -26,7 +26,8 @@ Compile sources on your chosen problem. For each: provide full citation,a 3 sent
 ### Research Paper (Due Friday, May 8 by 11:59PM)
 **Length:** 12-15 pages | **Weight:** 40%
 
-Produce an original, thesis-driven argument or analysis about a topic broadly related to abolition. 
+Your paper should present an original argument in response to your revised research question, supported by evidence from your sources. It must include an introduction with a clear thesis, body paragraphs organized around your main points, and a conclusion. All sources must be cited in Chicago format, with a completed bibliography attached.
+
 
 ### Discussion Question (Due weekly by 12:00 PM)
 **Format:** Google Form | **Weight:** Part of 15% participation
