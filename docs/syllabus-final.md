@@ -203,9 +203,9 @@ Submit your weekly discussion questions [here](discussion-questions.md)
 ### Week 15: Tuesday, April 28
 **Student Presentations & Contemporary Carceral Sites**
 
--** Overview of Your Project:** What are you curious about? What idea, question, or creative direction are you exploring?
--** Process & Approach:** How are you investigating your idea, methods, creative process, analysis, or experimentation?
--** Early Insights:** What have you noticed, learned, or started to piece together so far?
+- **Overview of Your Project:** What are you curious about? What idea, question, or creative direction are you exploring?
+- **Process & Approach:** How are you investigating your idea, methods, creative process, analysis, or experimentation?
+- **Early Insights:** What have you noticed, learned, or started to piece together so far?
 - **Direction & Next Steps:** Where do you want to take this project next? What questions are driving you forward?
 
 **ASSIGNMENT DUE: Final Paper — Friday, May 8 at 11:59 PM via email**
