@@ -203,12 +203,10 @@ Submit your weekly discussion questions [here](discussion-questions.md)
 ### Week 15: Tuesday, April 28
 **Student Presentations & Contemporary Carceral Sites**
 
-**Format:** Student presentations on research findings (10-15 minutes each + discussion)
-
-**What to bring:**
-- Visual or text-based presentation of your chosen carceral site/problem
-- Key findings from your annotated bibliography
-- Preliminary analysis using frameworks from Units 2-3
+-** Overview of Your Project:** What are you curious about? What idea, question, or creative direction are you exploring?
+-** Process & Approach:** How are you investigating your idea, methods, creative process, analysis, or experimentation?
+-** Early Insights:** What have you noticed, learned, or started to piece together so far?
+- **Direction & Next Steps:** Where do you want to take this project next? What questions are driving you forward?
 
 **ASSIGNMENT DUE: Final Paper — Friday, May 8 at 11:59 PM via email**
 ---
