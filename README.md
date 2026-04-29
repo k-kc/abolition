@@ -1,19 +1,41 @@
-# POLSCI B372-001
+---
+layout: default
+title: "POLSCI B372: From Beccaria to #BlackLivesMatter"
+---
 
-# From Beccaria to #BlackLivesMatter: The Long Abolition Movement
+# POLSCI B372-001: From Beccaria to #BlackLivesMatter
 
-Professor: Kierstan Kaushal-Carter  
-Contact: kkc@brynmawr.edu  
-Office Hours (Dalton 104): Thursdays 11:30-1:30PM
+## The Long Abolition Movement
 
-This course traces the political thought and practice of abolition from eighteenth-century critiques of punishment to contemporary struggles against mass incarceration and policing. We will study foundational thinkers such as Beccaria, Bentham, Douglass, Jacobs, and Wells alongside twentieth- and twenty-first-century voices including Angela Davis, Ruth Wilson Gilmore, and Mariame Kaba. Students will engage with canonical thinkers, understand abolition as emerging from concrete struggles, and develop sophisticated analytical skills through scaffolded writing assignments.
+Tu 1:10PM - 4:00PM
+Old Library 118 
+**Professor:** Kierstan Kaushal-Carter  
+**Contact:** kkc@brynmawr.edu
+**Office Hours:** Dalton 104, Thursdays 11:30-1:30
 
-Throughout the semester, we emphasize that **abolition is not merely a theory but emerges out of struggles against particular conditions**—whether the brutality of slavery, the violence of Jim Crow lynching, or the reach of the carceral state.
+---
 
-## Course Materials
+## Announcements 
 
-- [Learning Objectives](docs/learning-objectives.md)
-- [Schedule & Readings](docs/schedule.md)
-- [Assignments & Rubrics](docs/assignments.md)
+[The final paper rubric is now available! 
+](assets/final_paper_rubric_handout.pdf)
+## About This Course
 
-Use this website like you would a syllabus. Consult it for up to date readings, assignments, and course policies.
+This seminar traces the genealogy of prison abolition from the philosophical origins of the modern prison through contemporary movements to dismantle carceral systems. We examine how the prison emerged as a reform solution to social problems, then turn to three major abolition thinkers—Angela Davis, Ruth Wilson Gilmore, and Mariame Kaba—and the intellectual traditions that inform their work. Through close reading and discussion, students learn to apply abolition frameworks to analyze contemporary carceral systems and imagine alternatives to incarceration.
+
+---
+
+## Course Navigation
+
+* [Schedule & Readings](syllabus-final.md)
+* [Required Texts](required-texts.md)
+* [Assignments](assignments.md)
+* [Course Policies](policies.md)
+
+---
+
+**Use this website like you would a syllabus.** Consult it for up to date readings, assignments, and course policies.
+
+This project is maintained by [k-kc](https://github.com/k-kc)
+
+Hosted on GitHub Pages — Theme by [orderedlist](https://github.com/orderedlist)
