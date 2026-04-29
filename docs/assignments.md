@@ -28,6 +28,7 @@ Compile sources on your chosen problem. For each: provide full citation,a 3 sent
 
 Your paper should present an original argument in response to your revised research question, supported by evidence from your sources. It must include an introduction with a clear thesis, body paragraphs organized around your main points, and a conclusion. All sources must be cited in Chicago format, with a completed bibliography attached.
 
+[Full rubric here](assets/final_paper_rubric_handout.pdf)
 
 ### Discussion Question (Due weekly by 12:00 PM)
 **Format:** Google Form | **Weight:** Part of 15% participation
